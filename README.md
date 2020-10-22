@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl" width="100%"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/742060021671788614/768948707844423680/giphy.gif">
 
 ### Hi there 👋
 

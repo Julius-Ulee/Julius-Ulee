@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl" width="100%" height="100%">
+<iframe src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl" width="100%"/>
 
 ### Hi there 👋
 

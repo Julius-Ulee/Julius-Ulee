@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl">via GIPHY</a></p>
+
 ### Hi there 👋
 
 I'm Julius Ulee.
@@ -11,4 +13,5 @@ im making a codes and assist a devs.
 
 ### Stats
 [![Ulee-project's Github stats](https://github-readme-stats.vercel.app/api?username=Ulee-project&show_icons=true&theme=radical)](https://github.com/Ulee-project/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulee-project&layout=compact&theme=radical)

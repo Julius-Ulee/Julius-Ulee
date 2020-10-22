@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/742060021671788614/768948707844423680/giphy.gif">
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Julius Ulee.
 im making a codes and assist a devs.

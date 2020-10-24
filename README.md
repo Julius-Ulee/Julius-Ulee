@@ -5,7 +5,7 @@
 I'm Julius Ulee.
 im making a codes and assist a devs.
 
-[![Discord Users Online](https://discordapp.com/api/guilds/422469294786347016/widget.png?style=shield)](https://discord.gg/VzUR95y)
+[![Discord Users Online](https://discordapp.com/api/guilds/706339390053416981/widget.png?style=shield)](https://discord.gg/VzUR95y)
 
 💻 I can create a script using:
 

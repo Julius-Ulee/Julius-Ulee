@@ -5,6 +5,8 @@
 I'm Julius Ulee.
 im making a codes and assist a devs.
 
+[![Discord Users Online](https://discordapp.com/api/guilds/422469294786347016/widget.png?style=shield)](https://discord.gg/VzUR95y)
+
 💻 I can create a script using:
 
 ![Javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)

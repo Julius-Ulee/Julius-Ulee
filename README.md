@@ -14,6 +14,6 @@ im making a codes and assist a devs.
 [![Discord Users Online](https://discordapp.com/api/guilds/422469294786347016/widget.png?style=shield)](https://discord.gg/VzUR95y)
 
 ## Stats
-[![Ulee-project's Github stats](https://github-readme-stats.vercel.app/api?username=lorencerri&include_all_commits=true&count_private=true&bg_color=35,42275a,734b6d&text_color=FFF&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulee-project's Github stats](https://github-readme-stats.vercel.app/api?username=lorencerri&include_all_commits=true&count_private=true&bg_color=35,42275a,734b6d&text_color=FFF&hide_title=true&hide_border=true)](https://github.com/Ulee-project/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulee-project&layout=compact&theme=radical)

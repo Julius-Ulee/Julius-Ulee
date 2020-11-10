@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/742060021671788614/768948707844423680/giphy.gif">
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 ## Hi there 👋
 

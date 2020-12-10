@@ -19,3 +19,5 @@ im making a codes and assist a devs.
 [![Ulee-project's Github stats](https://github-readme-stats.vercel.app/api?username=Ulee-project&show_icons=true&theme=radical)](https://github.com/Ulee-project/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulee-project&layout=compact&theme=radical)
+
+https://discord.com/api/guilds/706339390053416981/widget.json

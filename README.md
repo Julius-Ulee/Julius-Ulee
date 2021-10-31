@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-I'm Julius Ulee.
-im making a codes and assist a devs.
+👋 Who am I?
+Hi, I'm Azriel(Julius Ulee Delavonte Enrique) and I design websites, web apps and dev bots. My language consists of HTML/CSS, and JavaScript. I'm currently still in the learning stage.
 
 🎥 Film Maker
 

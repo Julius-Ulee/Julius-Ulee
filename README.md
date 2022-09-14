@@ -4,6 +4,7 @@
 
 #### 👋 Who am I?
 Hi, I'm Azriel(Julius Ulee Delavonte Enrique) and I design websites, web apps and dev bots. My language consists of HTML/CSS, and JavaScript. I'm currently still in the learning stage.
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)
 
 🎥 Film Maker
 

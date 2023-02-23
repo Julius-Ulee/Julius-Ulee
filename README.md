@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Julius Ulee</h1>
-<h3 align="center">👋Who am I? Hi, I'm Azriel(Julius Ulee Delavonte Enrique) and I design websites, web apps and dev bots. My language consists of HTML/CSS, PHP, Python, and Javascript.</h3>
+<h3 align="center">👋Who am I? Hi, I'm Azriel(Julius Ulee Delavonte Enrique) and I design websites, web apps and dev bots. My language consists of HTML/CSS, PHP, Python, and JavaScript.</h3>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 ![](https://discord.c99.nl/widget/theme-2/385442265302302721.png)

@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Julius Ulee</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-![](https://discord.c99.nl/widget/theme-2/385442265302302721.png)
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulee-project" alt="ulee-project" /></a> </p>

@@ -1,23 +1,40 @@
+<div align="center" style"border-radius:15px">
+  <a href="https://discord.gg/VzUR95y" title="Discord Server" target="_blank">
+    <img src="https://media.discordapp.net/attachments/1040964070502834207/1078328460709212160/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.png?width=960&height=380" style"width: 100%;border-radius:15px">
+  </a>
+</div>
+
+<h1 align="center">Hi 👋, I'm Julius Ulee</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+![](https://discord.c99.nl/widget/theme-2/385442265302302721.png)
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-## Hi there 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulee-project" alt="ulee-project" /></a> </p>
 
-#### 👋 Who am I?
-Hi, I'm Azriel(Julius Ulee Delavonte Enrique) and I design websites, web apps and dev bots. My language consists of HTML/CSS, and JavaScript. I'm currently still in the learning stage.
+- 🔭 I’m currently working on [Multi Function Discord Bot with over 100+ Features!](https://github.com/Ulee-project/amelia-official)
 
-![](https://discord.c99.nl/widget/theme-3/385442265302302721.png)
+- 🌱 I’m currently learning **HTML/CSS, Python, PHP, and JavaScript**
 
-🎥 Film Maker
+- 👨‍💻 All of my projects are available at [https://ameliabot.dev/](https://ameliabot.dev/)
 
-💻 I can create a script using:
+- 💬 Ask me about **Anything**
 
-![Javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+- 📫 How to reach me **fidzlieazriel@gmail.com**
 
-[![Discord Users Online](https://discordapp.com/api/guilds/422469294786347016/widget.png?style=shield)](https://discord.gg/VzUR95y)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/✗julius ulee✗#5323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="✗julius ulee✗#5323" height="30" width="40" /></a>
+<a href="https://fb.com/シエル" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="シエル" height="30" width="40" /></a>
+<a href="https://instagram.com/mas.ulee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mas.ulee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uleeシ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uleeシ" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/VzUR95y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VzUR95y" height="30" width="40" /></a>
+</p>
 
-## Stats
-[![Ulee-project's Github stats](https://github-readme-stats.vercel.app/api?username=Ulee-project&show_icons=true&theme=radical)](https://github.com/Ulee-project/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulee-project&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulee-project&show_icons=true&locale=en&layout=compact" alt="ulee-project" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulee-project&show_icons=true&locale=en" alt="ulee-project" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulee-project&" alt="ulee-project" /></p>

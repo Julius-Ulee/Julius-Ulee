@@ -8,8 +8,6 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulee-project" alt="ulee-project" /></a> </p>
-
 - 🔭 I’m currently working on [Multi Function Discord Bot with over 100+ Features!](https://github.com/Ulee-project/amelia-official)
 
 - 🌱 I’m currently learning **HTML/CSS, Python, PHP, and JavaScript**
@@ -19,6 +17,8 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **fidzlieazriel@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulee-project" alt="ulee-project" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -24,8 +24,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+- 🔰 Founder of [Campfire at Night🔥](https://discord.gg/VzUR95y)
 - 💼 Front End Devloper
 - ⚡ Competitive Player
+- 🏝️ Living my Life with peace
+
 
 ### Listening To Spotify 🎧
 

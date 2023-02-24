@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **fidzlieazriel@gmail.com**
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ulee-project&show_icons=true&locale=en&layout=compact&theme=radical](https://github-profile-trophy.vercel.app/?username=Ulee-project&theme=onedark)" alt="ulee-project" /></p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ulee-project&theme=onedark&row=1)](https://github.com/Ulee-project)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 

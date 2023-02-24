@@ -24,7 +24,6 @@
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Ulee-project&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ulee-project&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
   </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)

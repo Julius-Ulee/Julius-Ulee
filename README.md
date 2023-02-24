@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **fidzlieazriel@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulee-project&theme=radical" alt="ulee-project" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ulee-project&theme=onedark)](https://github.com/Ulee-project/amelia-official)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 

@@ -22,6 +22,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulee-project&theme=radical" alt="ulee-project" /></a> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you :D...)](https://git.io/typing-svg)
+
+- 💼 Front End Devloper
+- ⚡ Competitive Player
+
+### Listening To Spotify 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/✗julius ulee✗#5323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="✗julius ulee✗#5323" height="30" width="40" /></a>

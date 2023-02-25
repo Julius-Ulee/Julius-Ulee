@@ -22,7 +22,7 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=onedark&row=1)](https://github.com/Julius-Ulee)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Always+learning+new+things;Open-Source+Developer;Experienced+UI/UX+Designer)](https://git.io/typing-svg)
 
 - 🔰 Founder of [Campfire at Night🔥](https://discord.gg/VzUR95y)
 - 💼 Front End Devloper

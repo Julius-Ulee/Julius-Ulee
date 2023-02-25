@@ -53,8 +53,8 @@
 
 <div>
   <a href="https://beacons.ai/Julius-Ulee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=radical&locale=en" alt="Julius-Ulee" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julius-Ulee&show_icons=true&locale=en&layout=compact&theme=radical" alt="Julius-Ulee" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=radical&locale=en" alt="Julius-Ulee" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julius-Ulee&show_icons=true&locale=en&layout=compact&theme=radical" alt="Julius-Ulee" />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Julius-Ulee&theme=radical" alt="Julius-Ulee" /></p>

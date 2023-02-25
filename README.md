@@ -35,6 +35,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+![snake gif](https://github.com/Ulee-project/Ulee-project/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/✗julius ulee✗#5323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="✗julius ulee✗#5323" height="30" width="40" /></a>

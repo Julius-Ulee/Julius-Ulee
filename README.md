@@ -60,7 +60,7 @@
   <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Julius-Ulee&theme=radical" alt="Julius-Ulee" />
 </div>
 
-### Project 🖥️
+### My Top Open Source Projects 🖥️
   
 <div>
 <a href="https://github.com/fskhri/AmeliaBot-Discord">

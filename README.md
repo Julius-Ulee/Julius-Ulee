@@ -37,7 +37,7 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/Ulee-project/Ulee-project/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ulee-project/Ulee-project/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

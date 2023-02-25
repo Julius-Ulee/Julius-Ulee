@@ -63,9 +63,9 @@
 ### My Top Open Source Projects 🖥️
   
 <div>
-<a href="https://github.com/Julius-Ulee/AmeliaBot-Discord">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
-<a href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=radical" />
+<a align="left" href="https://github.com/Julius-Ulee/AmeliaBot-Discord">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
+<a align="left" href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=radical" />
 </div>
   

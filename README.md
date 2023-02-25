@@ -64,7 +64,7 @@
   
 <div>
 <a href="https://beacons.ai/Julius-Ulee">
- <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
- <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=radical" />
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=radical" />
 </div>
   

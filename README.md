@@ -64,8 +64,8 @@
   
 <div>
 <a align="left" href="https://github.com/Julius-Ulee/AmeliaBot-Discord">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
 <a align="left" href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=radical" />
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=radical" />
 </div>
   

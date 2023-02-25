@@ -57,3 +57,11 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julius-Ulee&show_icons=true&locale=en&layout=compact&theme=radical" alt="Julius-Ulee" />
   <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Julius-Ulee&theme=radical" alt="Julius-Ulee" />
 </div>
+
+### AmeliaBot Discord
+  
+<div>
+<a href="https://github.com/fskhri/AmeliaBot-Discord">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=radical" />
+</div>
+  

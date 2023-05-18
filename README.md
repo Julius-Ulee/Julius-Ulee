@@ -24,13 +24,39 @@
 <p><a href="https://holopin.io/@juliusulee"><img src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a></p>
 
 <p align="center">
-  <a href="https://github.com/Julius-Ulee">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Julius-Ulee" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Julius+Ulee" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&center=true&width=435&lines=Always+learning+new+things;Experienced+UI%2FUX+Designer;Open-Source+Developer+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Always+learning+new+things;Experienced+UI%2FUX+Designer;Open-Source+Developer+" alt="Typing SVG" /></a>
+  
+  <!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@juliusulee"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/mas_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/VzUR95y" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/juliusulee"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/juliusule"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/Julius-Ulee?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Julius-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Julius-Ulee?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Julius-Ulee/Julius-Ulee">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Julius-Ulee-profile-views"/></a>
+</p>
 
 <details open> 
 <summary><h2>🏆 My Trophy</h2></summary>

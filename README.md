@@ -1,26 +1,3 @@
-<div align="center" style"border-radius:15px">
-  <a href="https://discord.gg/VzUR95y" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1040964070502834207/1078328460709212160/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.png?width=960&height=380" style"width: 100%;border-radius:15px">
-  </a>
-</div>
-
-<h1 align="center">Hi 👋, I'm Julius Ulee</h1>
-<h3 align="center">👋Who am I? Hi, I'm Azriel(Julius Ulee Delavonte Enrique) and I design websites, web apps and dev bots. My language consists of HTML/CSS, PHP, Python, and JavaScript.</h3>
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
-
-![](https://discord.c99.nl/widget/theme-2/385442265302302721.png)
-
-- 🔭 I’m currently working on [Multi Function Discord Bot with over 100+ Features!](https://github.com/Julius-Ulee/AmeliaBot-Discord)
-
-- 🌱 I’m currently learning **HTML/CSS, Python, PHP, and JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://ameliabot.dev/](https://ameliabot.dev/)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **fidzlieazriel@gmail.com**
-============================
-
 <p><a href="https://holopin.io/@juliusulee"><img src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a></p>
 
 <p align="center">

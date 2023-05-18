@@ -50,12 +50,15 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/Julius-Ulee?tab=repositories&sort=stargazers">
+  <a href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://github.com/Julius-Ulee?tab=repositories">
+    <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Julius-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Julius-Ulee?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Julius-Ulee/Julius-Ulee">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Julius-Ulee-profile-views"/></a>
+  <a href="https://discord.gg/VzUR95y">
+    <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/706339390053416981?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a>
 </p>
 
 <details open> 

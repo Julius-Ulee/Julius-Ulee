@@ -163,12 +163,12 @@
 <details>
   <summary><h2>📫Donating</h2></summary>
   
-  
 <h3>📫 Donate</h3>
 <p align="center">
 <a href="https://saweria.co/AmeliaBotDiscord" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174"></a>
 </p>
   
+<h3>🚩 Server</h3>
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
 </p>

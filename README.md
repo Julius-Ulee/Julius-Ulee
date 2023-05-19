@@ -189,7 +189,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><h2>🏕️ Community</h2></summary>
   
 <h3>🚩 Server</h3>

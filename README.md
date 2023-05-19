@@ -172,6 +172,11 @@
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
 </p>
+
+<h3>🎃 My Account</h3>
+  <p align="center">
+<img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
+</p>
 </details>
 
 <details open>

@@ -206,9 +206,7 @@
 </p>
 </details>
 
-<details open>
-  <summary><h2>🌏 Co-Founded Campfire Communities</h2></summary>
-  
+
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
   <a href="fidzlieazriel@gmail.com"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
@@ -221,7 +219,7 @@
   <a target"_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
 </p>
   
-<h3 align="center">🚩 Server</h3>
+<h3 align="center">🚩 Campfire Communities</h3>
   <p align="center">Wanna have chat with me? Join my Campfire communities!</p>
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
@@ -230,4 +228,6 @@
   <a href="https://discord.gg/VzUR95y">
   <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
 </p>
-</details>
+  <p align="center">
+  <img src="./src/img/ghost.gif">
+  </p>

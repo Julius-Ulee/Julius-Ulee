@@ -211,13 +211,13 @@
   
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
-  <a href="fidzlieazriel@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href=""><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
-  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="mas.ulee"/></a>
-  <a target="_blank" href="https://twitter.com/mas_ulee"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="mas_ulee"/></a>
-<a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/reddit.svg" alt="Julius Ulee"/></a>
-  <a target="_blank" href="https://discordapp.com/users/385442265302302721"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="✗Julius Ulee✗#5323"/></a>
-  <a target="_blank" href="https://t.me/juliusulee"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="juliusulee"/></a>
+  <a href="fidzlieazriel@gmail.com"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
+  <a target="_blank" href=""><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
+  <a target="_blank" href="https://twitter.com/mas_ulee"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/twitter.svg" alt="mas_ulee"/></a>
+<a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
+  <a target="_blank" href="https://discordapp.com/users/385442265302302721"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/discord.svg" alt="✗Julius Ulee✗#5323"/></a>
+  <a target="_blank" href="https://t.me/juliusulee"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
 </p>
   
 <h3 align="center">🚩 Server</h3>

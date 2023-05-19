@@ -158,15 +158,23 @@
 </details>
 
 <details>
-  <summary><h2>📫Donating & 🐍 Snake</h2></summary>
+  <summary><h2>📫Donating</h2></summary>
   
   
 ### Donate
+<p align="center">
 <a href="https://saweria.co/AmeliaBotDiscord" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174"></a>
-
+</p>
+  
+<p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
+</p>
+</details>
 
-### Watch my contribution graph get eaten by the snake 🐍
+<details open>
+<summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
-![snake gif](https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake.svg">
+</p>
 </details>

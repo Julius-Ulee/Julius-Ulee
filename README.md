@@ -218,6 +218,7 @@
 <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
   <a target="_blank" href="https://discordapp.com/users/385442265302302721"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/discord.svg" alt="✗Julius Ulee✗#5323"/></a>
   <a target="_blank" href="https://t.me/juliusulee"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
+  <a target"_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
 </p>
   
 <h3 align="center">🚩 Server</h3>

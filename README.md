@@ -45,7 +45,10 @@
 <details open> 
 <summary><h2>🏆 My Trophy</h2></summary>
   
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=onedark&row=1)](https://github.com/Julius-Ulee)
+  <h3>✨ Profile Trophy</h3>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true&margin-w=5&margin-h=5">
+</p>
   
 </details> 
 

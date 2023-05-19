@@ -67,16 +67,6 @@
   <a href="https://saweria.co/AmeliaBotDiscord"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details> 
 
-<details open> 
-<summary><h2>🏆 My Trophies</h2></summary>
-  
-  <h3>✨ Profile Trophy</h3>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true" height="325">
-</p>
-  
-</details> 
-
   <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -204,8 +194,12 @@
 <p align="center">
   <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake.svg">
 </p>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true">
+</p>
 </details>
-
+  
+</details> 
 
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">

@@ -158,7 +158,7 @@
 </details>
 
 <details>
-  <summary><h2>📫Donating, 🎧 Spotify & 🐍 Snake</h2></summary>
+  <summary><h2>📫Donating & 🐍 Snake</h2></summary>
   
   
 ### Donate

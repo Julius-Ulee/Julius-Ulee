@@ -42,10 +42,14 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true">
 </p>
 <p align="center"> <!-- playlist -->
+  <a href="https://open.spotify.com/playlist/3T4FA6oFSshCBVOz96OmBc"> <!-- genshin impact music -->
+<img src="https://img.shields.io/badge/Genshin%20Impact-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
   <a href="https://open.spotify.com/playlist/2kpKIV6i5hafkZtvKCcOHB"> <!-- pop music -->
 <img src="https://img.shields.io/badge/Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
     <a href="https://open.spotify.com/playlist/7JPfNoSSMnFpoS9k0cqPx8"> <!-- old music -->
 <img src="https://img.shields.io/badge/Old%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
+    <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO"> <!-- programmer music -->
+<img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
 </p>
 
 <details open> 

@@ -38,6 +38,10 @@
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/706339390053416981?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
+</p>
+
 <details open> 
 <summary><h2>🏆 My Trophy</h2></summary>
   
@@ -50,7 +54,7 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/Julius-Ulee/AmeliaBot-Discord">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
     <a href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">

@@ -186,6 +186,15 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Julius-Ulee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+      
+<h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🗣 Commented on [#1](https://github.com/Julius-Ulee/website-petshop/issues/1) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
+2. 🗣 Commented on [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+<!--END_SECTION:activity-->
 
 </details>
 

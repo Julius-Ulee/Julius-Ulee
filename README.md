@@ -68,11 +68,11 @@
 </details> 
 
 <details open> 
-<summary><h2>🏆 My Trophy</h2></summary>
+<summary><h2>🏆 My Trophies</h2></summary>
   
   <h3>✨ Profile Trophy</h3>
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=juicyfresh&no-frame=true" height="325">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true" height="325">
 </p>
   
 </details> 
@@ -209,14 +209,24 @@
 <details open>
   <summary><h2>🌏 Co-Founded Campfire Communities</h2></summary>
   
-<h3>🚩 Server</h3>
+  <h3 align="center">🌎 Find me around the web</h3>
+  <p align="center">
+  <a href="fidzlieazriel@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
+  <a target="_blank" href=""><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="mas.ulee"/></a>
+  <a target="_blank" href="https://twitter.com/mas_ulee"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="mas_ulee"/></a>
+<a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/reddit.svg" alt="Julius Ulee"/></a>
+  <a target="_blank" href="https://discordapp.com/users/385442265302302721"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="✗Julius Ulee✗#5323"/></a>
+  <a target="_blank" href="https://t.me/juliusulee"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="juliusulee"/></a>
+</p>
+  
+<h3 align="center">🚩 Server</h3>
   <p align="center">Wanna have chat with me? Join my Campfire communities!</p>
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
-</p>
-
-<h3>🎃 My Account</h3>
+  </p>
   <p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
+  <a href="https://discord.gg/VzUR95y">
+  <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
 </p>
 </details>

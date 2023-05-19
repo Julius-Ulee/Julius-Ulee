@@ -43,6 +43,21 @@
 </p>
 
 <details open> 
+<summary><h2>🌠 Donate</h2></summary>
+<table>
+    <tr>
+      <th>10k Minimum</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://saweria.co/AmeliaBotDiscord"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174" /></a>
+      </td>
+    </tr>
+  </table>
+  <a href="https://saweria.co/AmeliaBotDiscord"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+</details> 
+
+<details open> 
 <summary><h2>🏆 My Trophy</h2></summary>
   
   <h3>✨ Profile Trophy</h3>
@@ -64,6 +79,8 @@
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a> 
     <a href="https://github.com/Julius-Ulee/Discord-Online-Voice">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Discord-Online-Voice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a> 
+    </p>
+    <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
   
   <details open> 
@@ -161,12 +178,7 @@
 </details>
 
 <details>
-  <summary><h2>📫Donating</h2></summary>
-  
-<h3>📫 Donate</h3>
-<p align="center">
-<a href="https://saweria.co/AmeliaBotDiscord" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174"></a>
-</p>
+  <summary><h2>🏕️ Community</h2></summary>
   
 <h3>🚩 Server</h3>
 <p align="center">

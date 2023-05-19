@@ -72,7 +72,7 @@
   
   <h3>✨ Profile Trophy</h3>
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true&margin-w=5&margin-h=5">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=juicyfresh&no-frame=true" height="325">
 </p>
   
 </details> 
@@ -199,9 +199,18 @@
 </details>
 
 <details open>
-  <summary><h2>🏕️ Community</h2></summary>
+<summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+
+<p align="center">
+  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake.svg">
+</p>
+</details>
+
+<details open>
+  <summary><h2>🌏 Co-Founded Campfire Communities</h2></summary>
   
 <h3>🚩 Server</h3>
+  <p align="center">Wanna have chat with me? Join my Campfire communities!</p>
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
 </p>
@@ -209,13 +218,5 @@
 <h3>🎃 My Account</h3>
   <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
-</p>
-</details>
-
-<details open>
-<summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
-
-<p align="center">
-  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake.svg">
 </p>
 </details>

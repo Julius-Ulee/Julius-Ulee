@@ -56,7 +56,7 @@
 <summary><h2>🌠 Donate</h2></summary>
 <table>
     <tr>
-      <th>10k Minimum</th>
+      <th>5k Minimum</th>
     </tr>
     <tr>
       <td>

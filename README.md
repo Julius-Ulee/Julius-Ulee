@@ -88,22 +88,6 @@
     </p>
     <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-      
-  <details open> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-  <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://youtube.com/shorts/kQ6JGkp_Y5A"><img src="https://ytcards.demolab.com/?id=kQ6JGkp_Y5A&title=Combo+Cyno+AR+35&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Combo Cyno AR 35" title="Combo Cyno AR 35"></a>
-<a href="https://youtube.com/shorts/lsB2iiO3Nm4"><img src="https://ytcards.demolab.com/?id=lsB2iiO3Nm4&title=Combo+Cyno+AR+41+Damage+7897+part+2&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Combo Cyno AR 41 Damage 7897 part 2" title="Combo Cyno AR 41 Damage 7897 part 2"></a>
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
-  
-  <a href="https://www.youtube.com/c/@JuliusUlee?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
-</details>
   
   <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>

@@ -229,8 +229,6 @@
   <a href="https://discord.gg/VzUR95y">
   <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
 </p>
-  <picture>
   <p align="center">
   <img src="./src/img/ghost.gif">
   </p>
-  </picture>

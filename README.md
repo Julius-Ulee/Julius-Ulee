@@ -66,6 +66,22 @@
   </table>
   <a href="https://saweria.co/AmeliaBotDiscord"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details> 
+      
+<h1> Let's start with an intro... ⭐</h1>
+      <picture>
+        <img src="img/summer.gif" width="36%" align="right" />
+        </picture>
+      <ul>
+        <li>
+          💼 Front End Devloper
+        </li>
+        <li>
+          ⚡ Competitive Player
+        </li>
+        <li>
+          🏝️ Living my Life with peace
+        </li>
+      </ul>
 
   <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>

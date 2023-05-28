@@ -69,7 +69,7 @@
       
 <h1> Let's start with an intro... ⭐</h1>
       <picture>
-        <img src="img/summer.gif" width="36%" align="right" />
+        <img src=".src/img/summer.gif" width="36%" align="right" />
         </picture>
       <ul>
         <li>

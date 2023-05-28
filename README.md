@@ -96,8 +96,8 @@
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://youtube.com/shorts/kQ6JGkp_Y5A"><img src="https://ytcards.demolab.com/?id=kQ6JGkp_Y5A&title=Combo+Cyno+AR+35&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Combo Cyno AR 35" title="Combo Cyno AR 35"></a>
-<a href="https://youtube.com/shorts/lsB2iiO3Nm4"><img src="https://ytcards.demolab.com/?id=lsB2iiO3Nm4&title=Combo+Cyno+AR+41+Damage+7897+part+2&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Combo Cyno AR 41 Damage 7897 part 2" title="Combo Cyno AR 41 Damage 7897 part 2"></a>
+<a href="https://youtube.com/shorts/kQ6JGkp_Y5A"><img src="https://ytcards.demolab.com/?id=kQ6JGkp_Y5A&title=Combo+Cyno+AR+35&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Combo Cyno AR 35" title="Combo Cyno AR 35"></a>
+<a href="https://youtube.com/shorts/lsB2iiO3Nm4"><img src="https://ytcards.demolab.com/?id=lsB2iiO3Nm4&title=Combo+Cyno+AR+41+Damage+7897+part+2&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Combo Cyno AR 41 Damage 7897 part 2" title="Combo Cyno AR 41 Damage 7897 part 2"></a>
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
   

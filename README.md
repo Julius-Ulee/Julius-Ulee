@@ -88,6 +88,22 @@
     </p>
     <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+      
+  <details open> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+
+  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+
+  <!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://youtube.com/shorts/kQ6JGkp_Y5A"><img src="https://ytcards.demolab.com/?id=kQ6JGkp_Y5A&title=Combo+Cyno+AR+35&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Combo Cyno AR 35" title="Combo Cyno AR 35"></a>
+<a href="https://youtube.com/shorts/lsB2iiO3Nm4"><img src="https://ytcards.demolab.com/?id=lsB2iiO3Nm4&title=Combo+Cyno+AR+41+Damage+7897+part+2&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Combo Cyno AR 41 Damage 7897 part 2" title="Combo Cyno AR 41 Damage 7897 part 2"></a>
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+  
+  <a href="https://www.youtube.com/c/@JuliusUlee?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  
+</details>
   
   <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -166,7 +182,6 @@
     <a href="https://github.com/Julius-Ulee/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>

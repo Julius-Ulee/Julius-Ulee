@@ -94,6 +94,7 @@
     <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
   
+      
   <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -179,6 +180,8 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
+    <img src="images/profile-custom-night-view.svg" width = "98%"/>
   <br/>
   </p>
   

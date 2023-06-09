@@ -233,7 +233,6 @@
       <a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi">
         <img src=".src/img/chicken.png"></a>
     </p>
-    [Holopin](https://holopin.io/collect/clioh106o40260fmmpqmskemi)
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
   </p>

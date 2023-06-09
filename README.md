@@ -196,8 +196,8 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Julius-Ulee/website-petshop/issues/1) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
-2. 🗣 Commented on [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+1. ❗ Opened issue [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+2. ❗ Opened issue [#1](https://github.com/Julius-Ulee/website-petshop/issues/1) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
 <!--END_SECTION:activity-->
 
 </details>

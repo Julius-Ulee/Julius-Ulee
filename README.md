@@ -196,8 +196,8 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)
-2. ❗ Opened issue [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+1. ❗ Opened issue [#1](https://github.com/MhankBarBar/anime-game-stats/issues/1) in [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats)
+2. ❗ Opened issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)
 <!--END_SECTION:activity-->
 
 </details>

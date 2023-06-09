@@ -231,7 +231,7 @@
   <p align="center">Wanna have chat with me? Join my Campfire communities!</p>
     <p align="center">
       <a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi">
-        <img src=".src/img/chicken.png"></a>
+        <img src="./src/img/trex.png" alt="chicken" height="5" width="5"></a>
     </p>
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>

@@ -63,7 +63,7 @@
         <a href="https://saweria.co/AmeliaBotDiscord"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174" /></a>
       </td>
       <td>
-        <a href="1QBGLcyApogJMZxSBQ6yhu4HmNGX4dB1cK"><img src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white" alt="Donate Via Bitcoin" height="41" width="174" /></a>
+        <a href="https://julius-ulee.github.io/Donate/"><img src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white" alt="Donate Via Bitcoin" height="41" width="174" /></a>
       </td>
     </tr>
   </table>

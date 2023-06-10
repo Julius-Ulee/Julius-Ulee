@@ -196,10 +196,10 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Perpustakaan/issues/1) in [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan)
-2. ❗ Opened issue [#1](https://github.com/MhankBarBar/anime-game-stats/issues/1) in [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats)
-3. ❗ Opened issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)
-4. ❗ Opened issue [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+1. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact/issues/1) in [Julius-Ulee/Daily-Check-In-Genshin-Impact](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact)
+2. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Perpustakaan/issues/1) in [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan)
+3. ❗ Opened issue [#1](https://github.com/MhankBarBar/anime-game-stats/issues/1) in [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats)
+4. ❗ Opened issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)
 5. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Perpustakaan/issues/1) in [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan)
 <!--END_SECTION:activity-->
 

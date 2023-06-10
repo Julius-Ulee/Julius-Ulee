@@ -67,7 +67,7 @@
       </td>
     </tr>
   </table>
-  <a href="https://saweria.co/AmeliaBotDiscord"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://julius-ulee.github.io/Donate/"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details> 
  
   <details open> 

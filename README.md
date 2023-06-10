@@ -36,6 +36,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://discord.gg/VzUR95y">
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/706339390053416981?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a>
+  <a href="https://github.com/Julius-Ulee">
+  <img alt="view" title="View" src="https://komarev.com/ghpvc/?username=Julius-Ulee&color=brightgreen&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 <p align="center"> <!-- spotify -->

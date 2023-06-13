@@ -18,7 +18,7 @@ jobs:
           SETTING_JSON: ".github/settings.json"
       - name: Copy files
         run: |
-          cp -f profile-3d-contrib/* src/img/images
+          cp -f profile-3d-contrib/* src/img/profile-3d
           rm -rf profile-3d-contrib
       - name: Commit & Push
         run: |

@@ -198,11 +198,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Julius-Ulee/website-petshop/issues/2) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
-2. ❗ Opened issue [#9](https://github.com/MhankBarBar/hitori-bot/issues/9) in [MhankBarBar/hitori-bot](https://github.com/MhankBarBar/hitori-bot)
-3. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact/issues/1) in [Julius-Ulee/Daily-Check-In-Genshin-Impact](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact)
-4. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Perpustakaan/issues/1) in [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan)
-5. ❗ Opened issue [#1](https://github.com/MhankBarBar/anime-game-stats/issues/1) in [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats)
+1. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact/issues/1) in [Julius-Ulee/Daily-Check-In-Genshin-Impact](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact)
+2. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/Perpustakaan/issues/1) in [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan)
+3. ❗ Opened issue [#2](https://github.com/Julius-Ulee/website-petshop/issues/2) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
+4. ❗ Opened issue [#9](https://github.com/MhankBarBar/hitori-bot/issues/9) in [MhankBarBar/hitori-bot](https://github.com/MhankBarBar/hitori-bot)
+5. ❗ Opened issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact/issues/1) in [Julius-Ulee/Daily-Check-In-Genshin-Impact](https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact)
 <!--END_SECTION:activity-->
 
 </details>

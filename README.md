@@ -182,8 +182,8 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <source media="(prefers-color-scheme: light)" srcset="src/img/profile-3d/profile-custom-season.svg" width = "98%">
-    <img src="src/img/profile-3d/profile-custom-night-view.svg" width = "98%"/>
+  <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+    <img src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
   <br/>
   </p>
   
@@ -235,7 +235,7 @@
 <h3 align="center">🚩 Campfire Communities</h3>
   <p align="center">Wanna have chat with me? Join my Campfire communities!
     <a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi">
-        <img src="./src/img/chicken.png" alt="chicken" height="5" width="5"></a></p>
+        <img src="./src/images/characters/chicken.png" alt="chicken" height="5" width="5"></a></p>
 <p align="center">
 <a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
   </p>
@@ -244,5 +244,5 @@
   <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
 </p>
   <p align="center">
-  <img src="./src/img/ghost.gif">
+  <img src="./src/images/characters/ghost.gif">
   </p>

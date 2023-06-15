@@ -99,6 +99,8 @@
   <details open>
     <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
      <p align="left">
+       <a href="https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Check-In-Genshin-Impact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
         <a href="https://github.com/Julius-Ulee/genshin-game-stats">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=genshin-game-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" /></a>
     </p>

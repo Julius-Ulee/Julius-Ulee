@@ -245,7 +245,7 @@
     <a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi">
         <img src="./src/images/characters/chicken.png" alt="chicken" height="5" width="5"></a></p>
 <p align="center">
-<a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y"></a>
+<a href="https://discord.gg/VzUR95y"><img src="https://discordapp.com/api/guilds/706339390053416981/widget.png?style=banner3"></a>
   </p>
   <p align="center">
   <a href="https://discord.gg/VzUR95y">

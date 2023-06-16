@@ -208,11 +208,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/genshin-game-stats/pull/1) in [Julius-Ulee/genshin-game-stats](https://github.com/Julius-Ulee/genshin-game-stats)
-2. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)
-3. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/website-petshop/issues/2) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
-4. ❗ Opened issue [#71](https://github.com/Sansekai/Wa-OpenAI/issues/71) in [Sansekai/Wa-OpenAI](https://github.com/Sansekai/Wa-OpenAI)
-5. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/website-petshop/issues/1) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
+1. 🔒 Closed issue [#3](https://github.com/rushkii/kiizuha-genshin/issues/3) in [rushkii/kiizuha-genshin](https://github.com/rushkii/kiizuha-genshin)
+2. ❗ Opened issue [#228](https://github.com/lyfe00011/whatsapp-bot-md/issues/228) in [lyfe00011/whatsapp-bot-md](https://github.com/lyfe00011/whatsapp-bot-md)
+3. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/genshin-game-stats/pull/1) in [Julius-Ulee/genshin-game-stats](https://github.com/Julius-Ulee/genshin-game-stats)
+4. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)
+5. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/website-petshop/issues/2) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
 <!--END_SECTION:activity-->
 
 </details>

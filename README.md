@@ -208,7 +208,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/rushkii/kiizuha-genshin/issues/3) in [rushkii/kiizuha-genshin](https://github.com/rushkii/kiizuha-genshin)
+1. ❗ Opened issue [#132](https://github.com/thesadru/genshin.py/issues/132) in [thesadru/genshin.py](https://github.com/thesadru/genshin.py)
 2. ❗ Opened issue [#228](https://github.com/lyfe00011/whatsapp-bot-md/issues/228) in [lyfe00011/whatsapp-bot-md](https://github.com/lyfe00011/whatsapp-bot-md)
 3. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/genshin-game-stats/pull/1) in [Julius-Ulee/genshin-game-stats](https://github.com/Julius-Ulee/genshin-game-stats)
 4. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/WhatsApp-OpenAI/issues/1) in [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI)

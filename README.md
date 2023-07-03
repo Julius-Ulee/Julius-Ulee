@@ -209,10 +209,10 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
-2. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-3. ❗ Opened issue [#1](https://github.com/Yuri-Neko/gabuz/issues/1) in [Yuri-Neko/gabuz](https://github.com/Yuri-Neko/gabuz)
-4. 🗣 Commented on [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-5. 🗣 Commented on [#135](https://github.com/thesadru/genshin.py/issues/135) in [thesadru/genshin.py](https://github.com/thesadru/genshin.py)
+2. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+3. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+4. ❗ Opened issue [#1](https://github.com/Yuri-Neko/gabuz/issues/1) in [Yuri-Neko/gabuz](https://github.com/Yuri-Neko/gabuz)
+5. 🗣 Commented on [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
 <!--END_SECTION:activity-->
 
 </details>

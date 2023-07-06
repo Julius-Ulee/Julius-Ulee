@@ -47,11 +47,11 @@
   <a href="https://open.spotify.com/playlist/3T4FA6oFSshCBVOz96OmBc"> <!-- genshin impact music -->
 <img src="https://img.shields.io/badge/Genshin%20Impact-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
   <a href="https://open.spotify.com/playlist/2kpKIV6i5hafkZtvKCcOHB"> <!-- pop music -->
-<img src="https://img.shields.io/badge/Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/P☆P%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
     <a href="https://open.spotify.com/playlist/7JPfNoSSMnFpoS9k0cqPx8"> <!-- old music -->
-<img src="https://img.shields.io/badge/Old%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/☆ld%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
     <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO"> <!-- programmer music -->
-<img src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
 </p>
 
 <details open> 

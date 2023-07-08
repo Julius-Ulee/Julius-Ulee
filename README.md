@@ -208,10 +208,10 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1122](https://github.com/Nurutomo/wabot-aq/issues/1122) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. 🔒 Reopened issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-3. 🔒 Reopened issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Honkai-Impact-3/issues/1) in [Julius-Ulee/Daily-Check-In-Honkai-Impact-3](https://github.com/Julius-Ulee/Daily-Check-In-Honkai-Impact-3)
-4. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+1. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+2. 🗣 Commented on [#1122](https://github.com/Nurutomo/wabot-aq/issues/1122) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+3. 🔒 Reopened issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+4. 🔒 Reopened issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Honkai-Impact-3/issues/1) in [Julius-Ulee/Daily-Check-In-Honkai-Impact-3](https://github.com/Julius-Ulee/Daily-Check-In-Honkai-Impact-3)
 5. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
 <!--END_SECTION:activity-->
 

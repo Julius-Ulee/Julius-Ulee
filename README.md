@@ -221,7 +221,7 @@
 <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
 <p align="center">
-  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true">

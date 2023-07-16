@@ -208,11 +208,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ricomuh/ResepAI/issues/1) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
-2. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
-3. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-4. 🗣 Commented on [#1122](https://github.com/Nurutomo/wabot-aq/issues/1122#issuecomment-1624121401) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-5. 🔒 Reopened issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+1. 🗣 Commented on [#1](https://github.com/ricomuh/ResepAI/issues/1#issuecomment-1636952776) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
+2. ❗ Opened issue [#1](https://github.com/ricomuh/ResepAI/issues/1) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
+3. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/1) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+4. 🔒 Closed issue [#2](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/2) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+5. 🗣 Commented on [#1122](https://github.com/Nurutomo/wabot-aq/issues/1122#issuecomment-1624121401) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
 <!--END_SECTION:activity-->
 
 </details>

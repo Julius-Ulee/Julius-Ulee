@@ -208,11 +208,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/pull/3) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-2. 💪 Opened PR [#3](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/pull/3) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-3. 💪 Opened PR [#1](https://github.com/azrielbsi/Genshin-StarRail-Stats/pull/1) in [azrielbsi/Genshin-StarRail-Stats](https://github.com/azrielbsi/Genshin-StarRail-Stats)
-4. 🗣 Commented on [#7](https://github.com/ERLANRAHMAT/BETABOTZ-MD2/issues/7#issuecomment-1637112995) in [ERLANRAHMAT/BETABOTZ-MD2](https://github.com/ERLANRAHMAT/BETABOTZ-MD2)
-5. 🗣 Commented on [#93](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/93#issuecomment-1636973998) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+1. ❗ Opened issue [#1](https://github.com/trisnawan/AndroTools/issues/1) in [trisnawan/AndroTools](https://github.com/trisnawan/AndroTools)
+2. ❌ Closed PR [#3](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/pull/3) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+3. 💪 Opened PR [#3](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/pull/3) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+4. 💪 Opened PR [#1](https://github.com/azrielbsi/Genshin-StarRail-Stats/pull/1) in [azrielbsi/Genshin-StarRail-Stats](https://github.com/azrielbsi/Genshin-StarRail-Stats)
+5. 🗣 Commented on [#7](https://github.com/ERLANRAHMAT/BETABOTZ-MD2/issues/7#issuecomment-1637112995) in [ERLANRAHMAT/BETABOTZ-MD2](https://github.com/ERLANRAHMAT/BETABOTZ-MD2)
 <!--END_SECTION:activity-->
 
 </details>

@@ -208,11 +208,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ERLANRAHMAT/BETABOTZ-MD2/issues/7#issuecomment-1637112995) in [ERLANRAHMAT/BETABOTZ-MD2](https://github.com/ERLANRAHMAT/BETABOTZ-MD2)
-2. 🗣 Commented on [#93](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/93#issuecomment-1636973998) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
-3. 🗣 Commented on [#1](https://github.com/ricomuh/ResepAI/issues/1#issuecomment-1636960761) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
-4. 🗣 Commented on [#1](https://github.com/ricomuh/ResepAI/issues/1#issuecomment-1636952776) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
-5. ❗ Opened issue [#1](https://github.com/ricomuh/ResepAI/issues/1) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
+1. 💪 Opened PR [#1](https://github.com/azrielbsi/Genshin-StarRail-Stats/pull/1) in [azrielbsi/Genshin-StarRail-Stats](https://github.com/azrielbsi/Genshin-StarRail-Stats)
+2. 🗣 Commented on [#7](https://github.com/ERLANRAHMAT/BETABOTZ-MD2/issues/7#issuecomment-1637112995) in [ERLANRAHMAT/BETABOTZ-MD2](https://github.com/ERLANRAHMAT/BETABOTZ-MD2)
+3. 🗣 Commented on [#93](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/93#issuecomment-1636973998) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+4. 🗣 Commented on [#1](https://github.com/ricomuh/ResepAI/issues/1#issuecomment-1636960761) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
+5. 🗣 Commented on [#1](https://github.com/ricomuh/ResepAI/issues/1#issuecomment-1636952776) in [ricomuh/ResepAI](https://github.com/ricomuh/ResepAI)
 <!--END_SECTION:activity-->
 
 </details>

@@ -92,6 +92,10 @@
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Perpustakaan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
     <a href="https://github.com/Julius-Ulee/Sweetcake">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Sweetcake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+    <a href="https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Check-In-Genshin-Impact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+    <a href="https://github.com/Julius-Ulee/holobyte.github.io">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=holobyte.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     </p>
     <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
@@ -99,12 +103,12 @@
   <details open>
     <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
      <p align="left">
-       <a href="https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Check-In-Genshin-Impact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-        <a href="https://github.com/Julius-Ulee/genshin-game-stats">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=genshin-game-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-       <a href="https://github.com/Julius-Ulee/holobyte.github.io">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=holobyte.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+        <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=King-Genshin-StarRail-Stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+       <a href="https://github.com/Julius-Ulee/julius-ulee.github.io">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=julius-ulee.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+       <a href="https://github.com/Julius-Ulee/Auto-Commit">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Auto-Commit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     </p>
     <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>

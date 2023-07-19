@@ -217,12 +217,9 @@
 
 </details>
 
-<details>
-<summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+<details open>
+<summary><h2>🏆 My Trophy</h2></summary>
 
-<p align="center">
-  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true">
 </p>
@@ -253,6 +250,18 @@
   <a href="https://discord.gg/VzUR95y">
   <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
 </p>
-  <p align="center">
+  <!--<p align="center">
   <img src="./src/images/characters/ghost.gif">
-  </p>
+  </p> -->
+
+<details open>
+  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+
+<p align="center">
+  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
+</p>

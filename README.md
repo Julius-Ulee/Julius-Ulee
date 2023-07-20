@@ -1,4 +1,4 @@
-<p><a href="https://holopin.io/@juliusulee"><img src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a></p>
+<p><a href="https://holopin.io/@juliusulee"><img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a></p>
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Julius+Ulee" alt="Typing SVG" /></a>
@@ -187,7 +187,7 @@
   <h3>🔥 Streak Stats</h3>
   <p align="center">
   <a href="">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
     </a></p>
 
   <h3>💻 GitHub Profile Stats</h3>

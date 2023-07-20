@@ -41,7 +41,7 @@
 </p>
 
 <p align="center"> <!-- spotify -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true">
+  <a href="https://open.spotify.com/user/313w7gwusryjcgatpheimipv3fqu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true"></a>
 </p>
 <p align="center"> <!-- playlist -->
   <a href="https://open.spotify.com/playlist/3T4FA6oFSshCBVOz96OmBc"> <!-- genshin impact music -->

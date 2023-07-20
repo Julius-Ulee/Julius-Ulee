@@ -234,7 +234,7 @@
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
   <a target="_blank" href="fidzlieazriel@gmail.com"><img title="My Email: fidzlieazriel@gmail.com" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href=""><img title="My Linkedin" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/julius-ulee%E3%82%B7-129252278/"><img title="My Linkedin" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
   <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img title="My Instagram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
   <a target="_blank" href="https://twitter.com/mas_ulee"><img title="My Twitter" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/twitter.svg" alt="mas_ulee"/></a>
   <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>

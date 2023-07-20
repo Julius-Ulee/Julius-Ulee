@@ -62,10 +62,10 @@
       <th>Bitcoin</th>
     <tr>
       <td>
-        <a href="https://saweria.co/AmeliaBotDiscord"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174" /></a>
+        <a href="https://saweria.co/AmeliaBotDiscord"><img title="💵 Saweria" src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174" /></a>
       </td>
       <td>
-        <a href="https://julius-ulee.github.io/Donate/"><img src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white" alt="Donate Via Bitcoin" height="41" width="174" /></a>
+        <a href="https://julius-ulee.github.io/Donate/"><img title="🪙 Bitcoin" src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white" alt="Donate Via Bitcoin" height="41" width="174" /></a>
       </td>
     </tr>
   </table>
@@ -194,10 +194,10 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href=""><img alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href=""><img alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href=""><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href=""><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
+    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
   <br/>
   </p>
   
@@ -206,7 +206,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href=""><img alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href=""><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
       
 <h3>⚡ Recent GitHub Activity</h3>
 
@@ -225,7 +225,7 @@
 <summary><h2>🏆 My Trophy</h2></summary>
 
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true&row=1&column=7">
+  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true&row=1&column=7">
 </p>
 </details>
   
@@ -233,26 +233,26 @@
 
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
-  <a href="fidzlieazriel@gmail.com"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href=""><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
-  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
-  <a target="_blank" href="https://twitter.com/mas_ulee"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/twitter.svg" alt="mas_ulee"/></a>
-<a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
-  <a target="_blank" href="https://discordapp.com/users/385442265302302721"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/discord.svg" alt="✗Julius Ulee✗#5323"/></a>
-  <a target="_blank" href="https://t.me/juliusulee"><img src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
-  <a target"_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
+  <a target="_blank" href="fidzlieazriel@gmail.com"><img title="My Email: fidzlieazriel@gmail.com" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
+  <a target="_blank" href=""><img title="My Linkedin" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img title="My Instagram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
+  <a target="_blank" href="https://twitter.com/mas_ulee"><img title="My Twitter" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/twitter.svg" alt="mas_ulee"/></a>
+  <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
+  <a target="_blank" href="https://discordapp.com/users/385442265302302721"><img title="My Discord" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/discord.svg" alt="✗Julius Ulee✗#5323"/></a>
+  <a target="_blank" href="https://t.me/juliusulee"><img title="My Telegram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
+  <a target="_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img title="My Youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
 </p>
   
 <h3 align="center">🚩 Campfire Communities</h3>
   <p align="center">Wanna have chat with me? Join my Campfire communities!
     <a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi">
-        <img src="./src/images/characters/chicken.png" alt="chicken" height="5" width="5"></a></p>
+        <img title="You found chicken 🐔" src="./src/images/characters/chicken.png" alt="chicken" height="5" width="5"></a></p>
 <p align="center">
-<a href="https://discord.gg/VzUR95y"><img src="https://invidget.switchblade.xyz/VzUR95y" /></a>
+<a href="https://discord.gg/VzUR95y"><img title="Come to my communities" src="https://invidget.switchblade.xyz/VzUR95y" /></a>
   </p>
   <p align="center">
   <a href="https://discord.gg/VzUR95y">
-  <img src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
+  <img title="My Discord Account" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
 </p>
   <!--<p align="center">
   <img src="./src/images/characters/ghost.gif">
@@ -262,7 +262,7 @@
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
 <p align="center">
-  <img src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
+  <img title="🐍 Snake contributions" src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 </details>
 

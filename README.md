@@ -212,11 +212,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/93#issuecomment-1652746307) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
-2. ❗ Opened issue [#1](https://github.com/plucyvrz/html-musicplayer.github.io/issues/1) in [plucyvrz/html-musicplayer.github.io](https://github.com/plucyvrz/html-musicplayer.github.io)
-3. 🔒 Reopened issue [#1](https://github.com/Julius-Ulee/website-petshop/issues/1) in [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop)
-4. 🗣 Commented on [#1](https://github.com/trisnawan/AndroTools/issues/1#issuecomment-1640216316) in [trisnawan/AndroTools](https://github.com/trisnawan/AndroTools)
-5. ❗ Opened issue [#2](https://github.com/AyGemuy/HinataV2/issues/2) in [AyGemuy/HinataV2](https://github.com/AyGemuy/HinataV2)
+1. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+2. 💪 Opened PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+3. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/test/pull/1) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+4. 💪 Opened PR [#1](https://github.com/Julius-Ulee/test/pull/1) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+5. 🗣 Commented on [#93](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/93#issuecomment-1652746307) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
 <!--END_SECTION:activity-->
 
 </details>

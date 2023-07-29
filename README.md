@@ -212,11 +212,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1656490431) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
-2. 🗣 Commented on [#152](https://github.com/Tomato6966/Musicium/issues/152#issuecomment-1654812910) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
-3. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
-4. 💪 Opened PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
-5. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/test/pull/1) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+1. ❗ Opened issue [#1](https://github.com/Julius-Ulee/School-Programs/issues/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
+2. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1656490431) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+3. 🗣 Commented on [#152](https://github.com/Tomato6966/Musicium/issues/152#issuecomment-1654812910) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
+4. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+5. 💪 Opened PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
 <!--END_SECTION:activity-->
 
 </details>

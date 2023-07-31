@@ -212,11 +212,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#212](https://github.com/datacamp/datacamp-light/issues/212) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
-2. ❗ Opened issue [#1](https://github.com/Julius-Ulee/School-Programs/issues/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
-3. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1656490431) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
-4. 🗣 Commented on [#152](https://github.com/Tomato6966/Musicium/issues/152#issuecomment-1654812910) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
-5. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/test/pull/2) in [Julius-Ulee/test](https://github.com/Julius-Ulee/test)
+1. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
+2. 💪 Opened PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
+3. ❗ Opened issue [#212](https://github.com/datacamp/datacamp-light/issues/212) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
+4. ❗ Opened issue [#1](https://github.com/Julius-Ulee/School-Programs/issues/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
+5. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1656490431) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
 <!--END_SECTION:activity-->
 
 </details>

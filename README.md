@@ -71,12 +71,6 @@
   </table>
   <a href="https://julius-ulee.github.io/Donate/"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details> 
-
-<details title="⛔ Say No to LGBTQ" open>
-  <summary><h2>✨ Quotes For Today</h2></summary>
-  <p align="center">وَلُوْطًا اِذْ قَالَ لِقَوْمِهٖٓ اَتَأْتُوْنَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِّنَ الْعٰلَمِيْنَ . اِنَّكُمْ لَتَأْتُوْنَ الرِّجَالَ شَهْوَةً مِّنْ دُوْنِ النِّسَاۤءِۗ بَلْ اَنْتُمْ قَوْمٌ مُّسْرِفُوْنَ</p>
-  <p align="center"><code>"And (We have also sent) Luth, when he said to his people, 'Why have you done a heinous deed, which no one before you has done (in this world). Truly, you have vented your martyrdom on your fellow men and not on women<a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi"><img alt="Secret" title="You found the secret" src="src/images/characters/dot.png" height="3" width="3"></a> You are really a transgressive people."</code></p>
-</details>
  
   <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -235,7 +229,11 @@
 </p>
 </details>
   
-</details> 
+<details title="⛔ Say No to LGBTQ" open>
+  <summary><h2>✨ Quotes For Today</h2></summary>
+  <p align="center">وَلُوْطًا اِذْ قَالَ لِقَوْمِهٖٓ اَتَأْتُوْنَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِّنَ الْعٰلَمِيْنَ . اِنَّكُمْ لَتَأْتُوْنَ الرِّجَالَ شَهْوَةً مِّنْ دُوْنِ النِّسَاۤءِۗ بَلْ اَنْتُمْ قَوْمٌ مُّسْرِفُوْنَ</p>
+  <p align="center"><code>"And (We have also sent) Luth, when he said to his people, 'Why have you done a heinous deed, which no one before you has done (in this world). Truly, you have vented your martyrdom on your fellow men and not on women<a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi"><img alt="Secret" title="You found the secret" src="src/images/characters/dot.png" height="3" width="3"></a> You are really a transgressive people."</code></p>
+</details>
 
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">

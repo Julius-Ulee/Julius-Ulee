@@ -72,10 +72,10 @@
   <a href="https://julius-ulee.github.io/Donate/"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details> 
 
-<details title="🖕 Fuck You LGBTQ" open>
+<details title="⛔ Say No to LGBTQ" open>
   <summary><h2>✨ Quotes For Today</h2></summary>
   <p align="center">وَلُوْطًا اِذْ قَالَ لِقَوْمِهٖٓ اَتَأْتُوْنَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِّنَ الْعٰلَمِيْنَ . اِنَّكُمْ لَتَأْتُوْنَ الرِّجَالَ شَهْوَةً مِّنْ دُوْنِ النِّسَاۤءِۗ بَلْ اَنْتُمْ قَوْمٌ مُّسْرِفُوْنَ</p>
-  <p align="center"><code>"And (We have also sent) Luth, when he said to his people, 'Why have you done a heinous deed, which no one before you has done (in this world). Truly, you have vented your martyrdom on your fellow men and not on women. You are really a transgressive people."</code></p>
+  <p align="center"><code>"And (We have also sent) Luth, when he said to his people, 'Why have you done a heinous deed, which no one before you has done (in this world). Truly, you have vented your martyrdom on your fellow men and not on women. You are really a transgressive people<a href="google.com">.</a>"</code></p>
 </details>
  
   <details open> 

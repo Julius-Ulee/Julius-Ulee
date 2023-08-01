@@ -54,12 +54,6 @@
 <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
 </p>
 
-<details open>
-  <summary><h2>✨ Quotes For Today</h2></summary>
-  <p>وَلُوْطًا اِذْ قَالَ لِقَوْمِهٖٓ اَتَأْتُوْنَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِّنَ الْعٰلَمِيْنَ . اِنَّكُمْ لَتَأْتُوْنَ الرِّجَالَ شَهْوَةً مِّنْ دُوْنِ النِّسَاۤءِۗ بَلْ اَنْتُمْ قَوْمٌ مُّسْرِفُوْنَ</p>
-  <p><code>"And (We have also sent) Luth, when he said to his people, 'Why have you done a heinous deed, which no one before you has done (in this world). Truly, you have vented your martyrdom on your fellow men and not on women. You are really a transgressive people."</code></p>
-</details>
-
 <details open> 
 <summary><h2>🌠 Donate</h2></summary>
 <table>
@@ -77,6 +71,12 @@
   </table>
   <a href="https://julius-ulee.github.io/Donate/"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details> 
+
+<details open>
+  <summary><h2>✨ Quotes For Today</h2></summary>
+  <p align="center">وَلُوْطًا اِذْ قَالَ لِقَوْمِهٖٓ اَتَأْتُوْنَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِّنَ الْعٰلَمِيْنَ . اِنَّكُمْ لَتَأْتُوْنَ الرِّجَالَ شَهْوَةً مِّنْ دُوْنِ النِّسَاۤءِۗ بَلْ اَنْتُمْ قَوْمٌ مُّسْرِفُوْنَ</p>
+  <p align="center"><code>"And (We have also sent) Luth, when he said to his people, 'Why have you done a heinous deed, which no one before you has done (in this world). Truly, you have vented your martyrdom on your fellow men and not on women. You are really a transgressive people."</code></p>
+</details>
  
   <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>

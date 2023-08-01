@@ -212,11 +212,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
-2. 💪 Opened PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
-3. ❗ Opened issue [#212](https://github.com/datacamp/datacamp-light/issues/212) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
-4. ❗ Opened issue [#1](https://github.com/Julius-Ulee/School-Programs/issues/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
-5. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1656490431) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+1. 🗣 Commented on [#2](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/2#issuecomment-1659479898) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+2. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
+3. 💪 Opened PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
+4. ❗ Opened issue [#212](https://github.com/datacamp/datacamp-light/issues/212) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
+5. ❗ Opened issue [#1](https://github.com/Julius-Ulee/School-Programs/issues/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
 <!--END_SECTION:activity-->
 
 </details>

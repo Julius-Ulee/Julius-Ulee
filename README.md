@@ -82,8 +82,8 @@
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     <a href="https://github.com/Julius-Ulee/Program-ATM">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Program-ATM&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/School-Programs">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=School-Programs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
+    <a href="https://github.com/Julius-Ulee/Crypto-Mining">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Crypto-Mining&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
     <a href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
     <a href="https://github.com/Julius-Ulee/website-petshop">
@@ -107,8 +107,8 @@
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=King-Genshin-StarRail-Stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
        <a href="https://github.com/Julius-Ulee/julius-ulee.github.io">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=julius-ulee.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-       <a href="https://github.com/Julius-Ulee/Auto-Commit">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Auto-Commit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+       <a href="https://github.com/Julius-Ulee/School-Programs">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=School-Programs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     </p>
     <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>

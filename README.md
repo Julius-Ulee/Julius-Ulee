@@ -212,11 +212,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1659925132) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
-2. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Anime-Game/issues/1) in [Julius-Ulee/Daily-Check-In-Anime-Game](https://github.com/Julius-Ulee/Daily-Check-In-Anime-Game)
-3. 🗣 Commented on [#2](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/2#issuecomment-1659479898) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
-4. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
-5. 💪 Opened PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
+1. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1666375709) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+2. 🗣 Commented on [#99](https://github.com/ImYanXiao/Elaina-MultiDevice/issues/99#issuecomment-1659925132) in [ImYanXiao/Elaina-MultiDevice](https://github.com/ImYanXiao/Elaina-MultiDevice)
+3. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/Daily-Check-In-Anime-Game/issues/1) in [Julius-Ulee/Daily-Check-In-Anime-Game](https://github.com/Julius-Ulee/Daily-Check-In-Anime-Game)
+4. 🗣 Commented on [#2](https://github.com/Julius-Ulee/AmeliaBot-Discord/issues/2#issuecomment-1659479898) in [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord)
+5. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/Crypto-Mining/pull/1) in [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining)
 <!--END_SECTION:activity-->
 
 </details>

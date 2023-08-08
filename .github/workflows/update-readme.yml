@@ -16,3 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 5
+          COMMIT_NAME: Julius-Ulee
+          COMMIT_EMAIL: fidzlieazrel@gmail.com

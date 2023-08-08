@@ -212,11 +212,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1668954813) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
-2. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1668946502) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
-3. 🗣 Commented on [#97](https://github.com/BOTCAHX/RTXZY-MD/issues/97#issuecomment-1667632985) in [BOTCAHX/RTXZY-MD](https://github.com/BOTCAHX/RTXZY-MD)
-4. ❗ Opened issue [#97](https://github.com/BOTCAHX/RTXZY-MD/issues/97) in [BOTCAHX/RTXZY-MD](https://github.com/BOTCAHX/RTXZY-MD)
-5. ❗ Opened issue [#24](https://github.com/Afx-Abu/Abu-MD/issues/24) in [Afx-Abu/Abu-MD](https://github.com/Afx-Abu/Abu-MD)
+1. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1668986087) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+2. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1668954813) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+3. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1668946502) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+4. 🗣 Commented on [#97](https://github.com/BOTCAHX/RTXZY-MD/issues/97#issuecomment-1667632985) in [BOTCAHX/RTXZY-MD](https://github.com/BOTCAHX/RTXZY-MD)
+5. ❗ Opened issue [#97](https://github.com/BOTCAHX/RTXZY-MD/issues/97) in [BOTCAHX/RTXZY-MD](https://github.com/BOTCAHX/RTXZY-MD)
 <!--END_SECTION:activity-->
 
 </details>

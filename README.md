@@ -31,10 +31,10 @@
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   <a href="https://github.com/Julius-Ulee?tab=repositories">
     <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
-  <a href="https://github.com/Julius-Ulee?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Julius-Ulee">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Julius-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Julius-Ulee?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://discord.gg/VzUR95y">
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/706339390053416981?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a><br>
   <a href="https://github.com/Julius-Ulee">

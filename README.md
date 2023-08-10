@@ -213,11 +213,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
-2. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1669243828) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
-3. 🔒 Reopened issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
-4. 🔒 Closed issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
-5. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1668998367) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+1. ❗ Opened issue [#31](https://github.com/FG98F/dylux-fg/issues/31) in [FG98F/dylux-fg](https://github.com/FG98F/dylux-fg)
+2. 🔒 Closed issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+3. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1669243828) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+4. 🔒 Reopened issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+5. 🔒 Closed issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 <!--END_SECTION:activity-->
 
 </details>

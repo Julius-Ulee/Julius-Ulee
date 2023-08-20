@@ -213,8 +213,8 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#260](https://github.com/DarkMakerofc/QUEEN-ELISA-MD/issues/260) in [DarkMakerofc/QUEEN-ELISA-MD](https://github.com/DarkMakerofc/QUEEN-ELISA-MD)
-2. ❗ Opened issue [#31](https://github.com/FG98F/dylux-fg/issues/31) in [FG98F/dylux-fg](https://github.com/FG98F/dylux-fg)
+1. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
+2. 🗣 Commented on [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1#issuecomment-1685338076) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
 3. 🔒 Closed issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 4. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1669243828) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 5. 🔒 Reopened issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)

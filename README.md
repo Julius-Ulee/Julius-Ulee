@@ -216,11 +216,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/zeeoneofficial/Haruka-Md/issues/8#issuecomment-1685953883) in [zeeoneofficial/Haruka-Md](https://github.com/zeeoneofficial/Haruka-Md)
-2. ❗ Opened issue [#153](https://github.com/Tomato6966/Musicium/issues/153) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
-3. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
-4. 🗣 Commented on [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1#issuecomment-1685338076) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
-5. 🔒 Reopened issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+1. ❗ Opened issue [#1519](https://github.com/academicpages/academicpages.github.io/issues/1519) in [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+2. 🗣 Commented on [#8](https://github.com/zeeoneofficial/Haruka-Md/issues/8#issuecomment-1685953883) in [zeeoneofficial/Haruka-Md](https://github.com/zeeoneofficial/Haruka-Md)
+3. ❗ Opened issue [#153](https://github.com/Tomato6966/Musicium/issues/153) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
+4. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
+5. 🗣 Commented on [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1#issuecomment-1685338076) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts</h3>

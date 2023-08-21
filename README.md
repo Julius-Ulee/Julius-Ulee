@@ -214,6 +214,8 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
+- [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
 <!-- BLOG-POST-LIST:END -->
       
 <h3>⚡ Recent GitHub Activity</h3>

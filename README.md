@@ -226,11 +226,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 [AmeliaBot Discord: Amelia#1782 Ultimate Music Experience](https://julius-ulee.github.io/posts/ameliabot-discord/)
- - 📕 [Website Petshop](https://julius-ulee.github.io/posts/petshop/)
+ - 📘 [Genshin Impact &amp;amp; Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code](https://julius-ulee.github.io/posts/genshin-starrail/)
+ - 📕 [AmeliaBot Discord: Amelia#1782 Ultimate Music Experience](https://julius-ulee.github.io/posts/ameliabot-discord/)
+ - 📙 [Website Petshop](https://julius-ulee.github.io/posts/petshop/)
  - 📙 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
- - 📙 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
- - 📕 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)<!-- BLOG-POST-LIST:END -->
+ - 📕 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 

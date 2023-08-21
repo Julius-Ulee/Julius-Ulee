@@ -226,7 +226,7 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 [Sweet Cake](https://julius-ulee.github.io/posts/sweet-cake/)
+ - 📘 [Website Petshop](https://julius-ulee.github.io/posts/petshop/)
  - 📕 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
  - 📙 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
  - 📙 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)

@@ -226,11 +226,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 [Website Petshop](https://julius-ulee.github.io/posts/petshop/)
- - 📕 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
+ - 📘 [AmeliaBot Discord: Amelia#1782 Ultimate Music Experience](https://julius-ulee.github.io/posts/ameliabot-discord/)
+ - 📕 [Website Petshop](https://julius-ulee.github.io/posts/petshop/)
+ - 📙 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
  - 📙 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
- - 📙 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
- - 📕 [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)<!-- BLOG-POST-LIST:END -->
+ - 📕 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 

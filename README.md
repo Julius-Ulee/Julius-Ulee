@@ -226,10 +226,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
- - 📕 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
+ - 📘 [Sweet Cake](https://julius-ulee.github.io/posts/sweet-cake/)
+ - 📕 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
+ - 📙 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
  - 📙 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
- - 📙 [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)<!-- BLOG-POST-LIST:END -->
+ - 📕 [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 

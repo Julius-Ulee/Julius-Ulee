@@ -216,9 +216,9 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
-2. 🗣 Commented on [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1#issuecomment-1685338076) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
-3. 🔒 Closed issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
+1. ❗ Opened issue [#153](https://github.com/Tomato6966/Musicium/issues/153) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
+2. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
+3. 🗣 Commented on [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1#issuecomment-1685338076) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
 4. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1669243828) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 5. 🔒 Reopened issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 <!--END_SECTION:activity-->

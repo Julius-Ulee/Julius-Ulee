@@ -226,10 +226,9 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
-- [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
-- [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)
-<!-- BLOG-POST-LIST:END -->
+ - 📘 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
+ - 📕 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
+ - 📙 [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 

@@ -228,6 +228,7 @@
 <!-- BLOG-POST-LIST:START -->
  - 📘 [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
  - 📕 [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
+ - 📙 [Creating WhatsApp Bot Using AI API](https://julius-ulee.github.io/posts/whatsapp-bot/)
  - 📙 [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)<!-- BLOG-POST-LIST:END -->
 
 </details>

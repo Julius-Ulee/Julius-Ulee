@@ -211,14 +211,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<h3>📕 Latest Blog Posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [Perpustakaan using python](https://julius-ulee.github.io/posts/perpustakaan/)
-- [Amelia Bot WhatsApp](https://julius-ulee.github.io/posts/ameliabot/)
-- [Program ATM Sederhana Menggunakan Python](https://julius-ulee.github.io/posts/atm/)
-<!-- BLOG-POST-LIST:END -->
       
 <h3>⚡ Recent GitHub Activity</h3>
 
@@ -230,6 +222,11 @@
 4. 🗣 Commented on [#75](https://github.com/inirey/API-COLLECTION/issues/75#issuecomment-1669243828) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 5. 🔒 Reopened issue [#75](https://github.com/inirey/API-COLLECTION/issues/75) in [inirey/API-COLLECTION](https://github.com/inirey/API-COLLECTION)
 <!--END_SECTION:activity-->
+
+<h3>📕 Latest Blog Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 

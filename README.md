@@ -216,11 +216,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/datacamp/datacamp-light/issues/212#issuecomment-1688568904) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
-2. ❗ Opened issue [#1519](https://github.com/academicpages/academicpages.github.io/issues/1519) in [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-3. 🗣 Commented on [#8](https://github.com/zeeoneofficial/Haruka-Md/issues/8#issuecomment-1685953883) in [zeeoneofficial/Haruka-Md](https://github.com/zeeoneofficial/Haruka-Md)
-4. ❗ Opened issue [#153](https://github.com/Tomato6966/Musicium/issues/153) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
-5. 🔒 Closed issue [#1](https://github.com/Julius-Ulee/tamplate-website/issues/1) in [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website)
+1. 🔒 Closed issue [#212](https://github.com/datacamp/datacamp-light/issues/212) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
+2. 🗣 Commented on [#212](https://github.com/datacamp/datacamp-light/issues/212#issuecomment-1688568904) in [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light)
+3. ❗ Opened issue [#1519](https://github.com/academicpages/academicpages.github.io/issues/1519) in [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+4. 🗣 Commented on [#8](https://github.com/zeeoneofficial/Haruka-Md/issues/8#issuecomment-1685953883) in [zeeoneofficial/Haruka-Md](https://github.com/zeeoneofficial/Haruka-Md)
+5. ❗ Opened issue [#153](https://github.com/Tomato6966/Musicium/issues/153) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts</h3>

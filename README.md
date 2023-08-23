@@ -228,7 +228,7 @@
 <!-- BLOG-POST-LIST:START -->
  - 📘 [School Program: Traditional High School](https://julius-ulee.github.io/posts/school-program/)
  - 📕 [Announcement Anime](https://julius-ulee.github.io/posts/announcement-anime/)
- - 📙 [🦖Holobyte Hunted](https://julius-ulee.github.io/posts/holobyte/)
+ - 📙 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
  - 📙 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)
  - 📕 [Genshin Impact / Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code](https://julius-ulee.github.io/posts/genshin-starrail/)<!-- BLOG-POST-LIST:END -->
 

@@ -235,7 +235,8 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 [Seperti Jessica Kumala Wongso, Wanita Ini Didakwa Kasus Pembunuhan Pakai Sianida](https://julius-ulee.github.io/School-Programs/article/jessica/)<!-- School-Programs:END -->
+ - 📘 [Logika dan Algoritma](https://julius-ulee.github.io/School-Programs/learn/pengertian-dasar-logika-dan-algoritma/)
+ - 📕 [Seperti Jessica Kumala Wongso, Wanita Ini Didakwa Kasus Pembunuhan Pakai Sianida](https://julius-ulee.github.io/School-Programs/article/jessica/)<!-- School-Programs:END -->
 </details>
 
 <details open>

@@ -24,7 +24,7 @@ jobs:
           feed_list: "https://julius-ulee.github.io/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: School-Program
+          comment_tag_name: School-Programs
           max_post_count: "5"
           committer_username: Julius-Ulee
           committer_email: fidzlieazriel@gmail.com

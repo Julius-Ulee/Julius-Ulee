@@ -235,7 +235,7 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
-<!-- School-Programs:END -->
+ - 📘 [Seperti Jessica Kumala Wongso, Wanita Ini Didakwa Kasus Pembunuhan Pakai Sianida](https://julius-ulee.github.io/School-Programs/article/jessica/)<!-- School-Programs:END -->
 </details>
 
 <details open>

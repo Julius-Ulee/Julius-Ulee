@@ -232,6 +232,10 @@
  - 📙 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)
  - 📕 [Genshin Impact / Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code](https://julius-ulee.github.io/posts/genshin-starrail/)<!-- BLOG-POST-LIST:END -->
 
+<h3>📔 Latest School Programs Posts</h3>
+
+<!-- School-Programs:START -->
+<!-- School-Programs:END -->
 </details>
 
 <details open>

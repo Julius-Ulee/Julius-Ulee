@@ -22,3 +22,12 @@ jobs:
           commit_message: "📕 Update this repo's README with latest blog posts"
           template: $newline - $randomEmoji(📗,📘,📙,📕,📔) [$title]($url)
           feed_list: "https://julius-ulee.github.io/feed"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: School-Program
+          max_post_count: "5"
+          committer_username: Julius-Ulee
+          committer_email: fidzlieazriel@gmail.com
+          commit_message: "📔 Update this repo's README with latest School Programs posts"
+          template: $newline - $randomEmoji(📗,📘,📙,📕,📔) [$title]($url)
+          feed_list: "https://julius-ulee.github.io/School-Programs/feed"

@@ -216,11 +216,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10304](https://github.com/TheAlgorithms/Python/pull/10304) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-2. 🔒 Closed issue [#37](https://github.com/Julius-Ulee/Status/issues/37) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-3. 🔒 Closed issue [#40](https://github.com/Julius-Ulee/Status/issues/40) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-4. 🗣 Commented on [#40](https://github.com/Julius-Ulee/Status/issues/40#issuecomment-1744064587) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-5. 🔒 Closed issue [#39](https://github.com/Julius-Ulee/Status/issues/39) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
+1. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/Python/pull/1) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
+2. 💪 Opened PR [#1](https://github.com/Julius-Ulee/Python/pull/1) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
+3. 💪 Opened PR [#10305](https://github.com/TheAlgorithms/Python/pull/10305) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+4. ❌ Closed PR [#10304](https://github.com/TheAlgorithms/Python/pull/10304) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+5. 💪 Opened PR [#10304](https://github.com/TheAlgorithms/Python/pull/10304) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts</h3>

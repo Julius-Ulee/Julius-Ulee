@@ -216,11 +216,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/Julius-Ulee/Status/issues/43) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-2. 🔒 Closed issue [#42](https://github.com/Julius-Ulee/Status/issues/42) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-3. 🗣 Commented on [#42](https://github.com/Julius-Ulee/Status/issues/42#issuecomment-1773931762) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-4. ❗ Opened issue [#42](https://github.com/Julius-Ulee/Status/issues/42) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
-5. ❗ Opened issue [#127](https://github.com/phpid-jakarta/ajari-koding/issues/127) in [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding)
+1. 🔒 Closed issue [#43](https://github.com/Julius-Ulee/Status/issues/43) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
+2. 🗣 Commented on [#43](https://github.com/Julius-Ulee/Status/issues/43#issuecomment-1777769640) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
+3. ❗ Opened issue [#43](https://github.com/Julius-Ulee/Status/issues/43) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
+4. 🔒 Closed issue [#42](https://github.com/Julius-Ulee/Status/issues/42) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
+5. 🗣 Commented on [#42](https://github.com/Julius-Ulee/Status/issues/42#issuecomment-1773931762) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts</h3>

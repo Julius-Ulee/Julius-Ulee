@@ -226,7 +226,7 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 [School Program: Traditional High School](https://julius-ulee.github.io/posts/school-program/)
+ - 📘 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
  - 📕 [Announcement Anime](https://julius-ulee.github.io/posts/announcement-anime/)
  - 📙 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
  - 📙 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)

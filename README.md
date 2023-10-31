@@ -238,7 +238,7 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 [Tamplates Post](https://julius-ulee.github.io/School-Programs/templates/tamplates/)
+ - 📘 [Tamplates Post School Program](https://julius-ulee.github.io/School-Programs/templates/tamplates/)
  - 📕 [Sejarah dan Perkembangan Laptop dari Masa ke Masa](https://julius-ulee.github.io/School-Programs/laptop/sejarah-perkembangan-laptop/)
  - 📙 [Mengenal Topologi Jaringan Komputer](https://julius-ulee.github.io/School-Programs/computer/topologi.jaringan/)
  - 📙 [Cara Menambahkan Audio pada HTML](https://julius-ulee.github.io/School-Programs/learn/audio-html/)

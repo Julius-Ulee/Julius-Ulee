@@ -214,19 +214,6 @@
       <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
     </a></p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
-  <br/>
-  </p>
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
-      
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->

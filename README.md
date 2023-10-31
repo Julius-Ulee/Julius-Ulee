@@ -30,7 +30,7 @@
   <a href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   <a href="https://github.com/Julius-Ulee?tab=repositories">
-    <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-e5b116?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/Julius-Ulee">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Julius-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Julius-Ulee?tab=followers">
@@ -39,6 +39,15 @@
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/706339390053416981?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a><br>
   <a href="https://github.com/Julius-Ulee">
   <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Julius-Ulee&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+</p>
+
+<p align="center"> <!-- Stats -->
+  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height="192px"/></a>
+  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px"/></a>
+</p>
+
+<p align="center"> <!-- Trophy -->
+  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true">
 </p>
 
 <p align="center"> <!-- spotify -->
@@ -198,19 +207,14 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
     <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
   <br/>
   </p>
   
-  > **Note**
-  > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
       
 <h3>⚡ Recent GitHub Activity</h3>
 
@@ -243,10 +247,10 @@
 </details>
 
 <details open>
-<summary><h2>🏆 My Trophy</h2></summary>
+  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
-  <p align="center">
-  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=dracula&no-frame=true&row=1&column=7">
+<p align="center">
+  <img title="🐍 Snake contributions" src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 </details>
   
@@ -268,29 +272,6 @@
   <a target="_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img title="My Youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
 </p>
   
-<h3 align="center">🚩 Campfire Communities</h3>
-  <p align="center">Wanna have chat with me? Join my Campfire communities!
-    <a href="https://holopin.io/collect/clioh106o40260fmmpqmskemi">
-        <img title="You found chicken badge 🐔" src="./src/images/characters/chicken.png" alt="chicken" height="15" width="15"></a></p>
-<p align="center">
-<a href="https://discord.gg/VzUR95y"><img title="Come to my communities" src="https://invidget.switchblade.xyz/VzUR95y" /></a>
-  </p>
-  <p align="center">
-  <a href="https://discord.gg/VzUR95y">
-  <img title="My Discord Account" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png" /></a>
-</p>
-  <!--<p align="center">
-  <img src="./src/images/characters/ghost.gif">
-  </p> -->
-
-<details open>
-  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
-
-<p align="center">
-  <img title="🐍 Snake contributions" src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
-</details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
 </p>

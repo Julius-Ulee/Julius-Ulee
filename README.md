@@ -50,6 +50,17 @@
   <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true">
 </p>
 
+ <!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
+  <br/>
+  </p>
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
+
 <p align="center"> <!-- spotify -->
   <a href="https://open.spotify.com/user/313w7gwusryjcgatpheimipv3fqu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true"></a>
 </p>
@@ -63,17 +74,6 @@
     <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO"> <!-- programmer music -->
 <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
 </p>
-
- <!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
-  <br/>
-  </p>
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
 
 <details open> 
 <summary><h2>🌠 Donate</h2></summary>

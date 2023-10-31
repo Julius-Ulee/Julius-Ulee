@@ -239,9 +239,7 @@
 <!-- School-Programs:START -->
  - 📘 [Sejarah dan Perkembangan Laptop dari Masa ke Masa](https://julius-ulee.github.io/School-Programs/laptop/sejarah-perkembangan-laptop/)
  - 📕 [Mengenal Topologi Jaringan Komputer](https://julius-ulee.github.io/School-Programs/computer/topologi.jaringan/)
- - 📙 [Cara Menambahkan Audio pada HTML](https://julius-ulee.github.io/School-Programs/learn/audio-html/)
- - 📙 [Resume Jaringan PAN, LAN, MAN, dan WAN](https://julius-ulee.github.io/School-Programs/network/resume-jaringan/)
- - 📕 [Seperti Jessica Kumala Wongso, Wanita Ini Didakwa Kasus Pembunuhan Pakai Sianida](https://julius-ulee.github.io/School-Programs/article/jessica/)<!-- School-Programs:END -->
+ - 📙 [Cara Menambahkan Audio pada HTML](https://julius-ulee.github.io/School-Programs/learn/audio-html/)<!-- School-Programs:END -->
 </details>
 
 <details open>

@@ -41,11 +41,6 @@
   <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Julius-Ulee&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
-<p align=center> <!-- Discord -->
-  <a href="https://github.com/Julius-Ulee"><img title="Discord Profile" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png">
-  </a>
-</p>
-
 <p align="center"> <!-- Stats -->
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height="192px"/></a>
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px"/></a>
@@ -53,6 +48,11 @@
 
 <p align="center"> <!-- Trophy -->
   <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true">
+</p>
+
+<p align=center> <!-- Discord -->
+  <a href="https://github.com/Julius-Ulee"><img title="Discord Profile" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png">
+  </a>
 </p>
 
 <p align="center"> <!-- spotify -->

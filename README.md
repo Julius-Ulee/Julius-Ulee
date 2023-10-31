@@ -214,7 +214,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
+  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
       
 <h3>⚡ Recent GitHub Activity</h3>
 

@@ -4,7 +4,7 @@ on:
     - cron: '* */5 * * *' # Runs every 5 hours
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
   update-readme-with-blog:

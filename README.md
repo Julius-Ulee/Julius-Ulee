@@ -232,7 +232,9 @@
 <!-- BLOG-POST-LIST:START -->
  - 📘 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
  - 📕 [Announcement Anime](https://julius-ulee.github.io/posts/announcement-anime/)
- - 📙 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)<!-- BLOG-POST-LIST:END -->
+ - 📙 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
+ - 📙 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)
+ - 📕 [Genshin Impact / Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code](https://julius-ulee.github.io/posts/genshin-starrail/)<!-- BLOG-POST-LIST:END -->
 
 <h3>📔 Latest School Programs Posts</h3>
 

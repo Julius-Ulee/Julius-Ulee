@@ -239,11 +239,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 [Tamplates Post School Program](https://julius-ulee.github.io/School-Programs/templates/tamplates/)
- - 📕 [Sejarah dan Perkembangan Laptop dari Masa ke Masa](https://julius-ulee.github.io/School-Programs/laptop/sejarah-perkembangan-laptop/)
+ - 📘 [Hewan Langka Komodo yang Berasal dari Indonesia](https://julius-ulee.github.io/School-Programs/hewan/hewan-langka-indonesia/)
+ - 📕 [Tamplates Post School Program](https://julius-ulee.github.io/School-Programs/templates/tamplates/)
+ - 📙 [Sejarah dan Perkembangan Laptop dari Masa ke Masa](https://julius-ulee.github.io/School-Programs/laptop/sejarah-perkembangan-laptop/)
  - 📙 [Mengenal Topologi Jaringan Komputer](https://julius-ulee.github.io/School-Programs/computer/topologi.jaringan/)
- - 📙 [Cara Menambahkan Audio pada HTML](https://julius-ulee.github.io/School-Programs/learn/audio-html/)
- - 📕 [Resume Jaringan PAN, LAN, MAN, dan WAN](https://julius-ulee.github.io/School-Programs/network/resume-jaringan/)<!-- School-Programs:END -->
+ - 📕 [Cara Menambahkan Audio pada HTML](https://julius-ulee.github.io/School-Programs/learn/audio-html/)<!-- School-Programs:END -->
 </details>
 
 <details open>

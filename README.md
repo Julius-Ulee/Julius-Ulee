@@ -230,11 +230,11 @@
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Sep 11, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
+ - 📘 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
  - 📕 Sep 4, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
  - 📙 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)
  - 📙 Sep 2, 2023 [Genshin Impact / Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code](https://julius-ulee.github.io/posts/genshin-starrail/)
- - 📕 Sep 1, 2023 [AmeliaBot Discord: Amelia#1782 Ultimate Music Experience](https://julius-ulee.github.io/posts/ameliabot-discord/)<!-- BLOG-POST-LIST:END -->
+ - 📕 Aug 27, 2023 [Website Petshop](https://julius-ulee.github.io/posts/petshop/)<!-- BLOG-POST-LIST:END -->
 
 <h3>📔 Latest School Programs Posts</h3>
 

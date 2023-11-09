@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@juliusulee"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/julius-ulee%E3%82%B7-129252278/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/julius-ulee-129252278/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/mas_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -264,7 +264,7 @@
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
   <a target="_blank" href="fidzlieazriel@gmail.com"><img title="My Email: fidzlieazriel@gmail.com" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/julius-ulee%E3%82%B7-129252278/"><img title="My Linkedin" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/julius-ulee-129252278/"><img title="My Linkedin" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
   <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img title="My Instagram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
   <a target="_blank" href="https://twitter.com/mas_ulee"><img title="My Twitter" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/twitter.svg" alt="mas_ulee"/></a>
   <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>

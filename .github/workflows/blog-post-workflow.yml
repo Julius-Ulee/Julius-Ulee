@@ -21,7 +21,7 @@ jobs:
           committer_email: fidzlieazriel@gmail.com
           commit_message: "📕 Update this repo's README with latest blog posts"
           date_format: "mmm d, yyyy"
-          template: $newline - $randomEmoji(📗,📘,📙,📕,📔) [$title]($url)
+          template: $newline - $randomEmoji(📗,📘,📙,📕,📔) $date [$title]($url)
           feed_list: "https://julius-ulee.github.io/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -31,5 +31,5 @@ jobs:
           committer_email: fidzlieazriel@gmail.com
           commit_message: "📔 Update this repo's README with latest School Programs posts"
           date_format: "mmm d, yyyy"
-          template: $newline - $randomEmoji(📗,📘,📙,📕,📔) [$title]($url)
+          template: $newline - $randomEmoji(📗,📘,📙,📕,📔) $date [$title]($url)
           feed_list: "https://julius-ulee.github.io/School-Programs/feed"

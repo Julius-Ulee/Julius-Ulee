@@ -239,11 +239,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 [Python: Pengertian, Contoh Penggunaan, dan Manfaat Mempelajarinya](https://julius-ulee.github.io/School-Programs/learn/python-pengertian-contoh-penggunaan-dan-manfaat-mempelajarinya/)
- - 📕 [Hewan Langka Komodo yang Berasal dari Indonesia](https://julius-ulee.github.io/School-Programs/hewan/article/article-hewan-langka-indonesia/)
- - 📙 [Tamplates Post School Program](https://julius-ulee.github.io/School-Programs/templates/tamplates/)
- - 📙 [Sejarah dan Perkembangan Laptop dari Masa ke Masa](https://julius-ulee.github.io/School-Programs/laptop/sejarah-perkembangan-laptop/)
- - 📕 [Mengenal Topologi Jaringan Komputer](https://julius-ulee.github.io/School-Programs/computer/topologi.jaringan/)<!-- School-Programs:END -->
+ - 📘 Nov 3, 2023 [Python: Pengertian, Contoh Penggunaan, dan Manfaat Mempelajarinya](https://julius-ulee.github.io/School-Programs/learn/python-pengertian-contoh-penggunaan-dan-manfaat-mempelajarinya/)
+ - 📕 Nov 2, 2023 [Hewan Langka Komodo yang Berasal dari Indonesia](https://julius-ulee.github.io/School-Programs/hewan/article/article-hewan-langka-indonesia/)
+ - 📙 Oct 31, 2023 [Tamplates Post School Program](https://julius-ulee.github.io/School-Programs/templates/tamplates/)
+ - 📙 Oct 29, 2023 [Sejarah dan Perkembangan Laptop dari Masa ke Masa](https://julius-ulee.github.io/School-Programs/laptop/sejarah-perkembangan-laptop/)
+ - 📕 Oct 21, 2023 [Mengenal Topologi Jaringan Komputer](https://julius-ulee.github.io/School-Programs/computer/topologi.jaringan/)<!-- School-Programs:END -->
 </details>
 
 <details open>

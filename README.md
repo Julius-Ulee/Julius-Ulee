@@ -221,8 +221,8 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/kaveesha-sithum/Dark-Nero-Bot-/issues/31) in [kaveesha-sithum/Dark-Nero-Bot-](https://github.com/kaveesha-sithum/Dark-Nero-Bot-)
-2. 🔒 Closed issue [#55](https://github.com/Julius-Ulee/Status/issues/55) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
+1. ❗ Opened issue [#15](https://github.com/ShirokamiRyzen/Nao-MD/issues/15) in [ShirokamiRyzen/Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD)
+2. ❗ Opened issue [#31](https://github.com/kaveesha-sithum/Dark-Nero-Bot-/issues/31) in [kaveesha-sithum/Dark-Nero-Bot-](https://github.com/kaveesha-sithum/Dark-Nero-Bot-)
 3. ❗ Opened issue [#55](https://github.com/Julius-Ulee/Status/issues/55) in [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status)
 4. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/Python/pull/2) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
 5. 💪 Opened PR [#2](https://github.com/Julius-Ulee/Python/pull/2) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)

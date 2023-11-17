@@ -240,11 +240,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 Nov 17, 2023 [Cara Membuat Jaringan Wireless Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-membuat-jaringan-wireless/)
- - 📕 Nov 16, 2023 [Cara Konfigurasi VLAN Dasar Pada Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-konfigurasi-vlan-dasar-pada-cisco-packet-tracer/)
+ - 📘 Nov 17, 2023 [Cara Buat Jaringan Client Server Menggunakan Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-membuat-jaringan-client-server/)
+ - 📕 Nov 17, 2023 [Cara Membuat Jaringan Wireless Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-membuat-jaringan-wireless/)
+ - 📙 Nov 16, 2023 [Cara Konfigurasi VLAN Dasar Pada Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-konfigurasi-vlan-dasar-pada-cisco-packet-tracer/)
  - 📙 Nov 10, 2023 [Pentingnya Penerapan K3LH](https://julius-ulee.github.io/School-Programs/learn/computer/pentingnya-penerapan-k3lh/)
- - 📙 Nov 9, 2023 [Fungsi Trunk Yang Harus Kamu Ketahui](https://julius-ulee.github.io/School-Programs/article/learn/fungsi-trunk/)
- - 📕 Nov 8, 2023 [Mental Health: Pentingnya Kesehatan Mental](https://julius-ulee.github.io/School-Programs/health/kesehatan-mental/)<!-- School-Programs:END -->
+ - 📕 Nov 9, 2023 [Fungsi Trunk Yang Harus Kamu Ketahui](https://julius-ulee.github.io/School-Programs/article/learn/fungsi-trunk/)<!-- School-Programs:END -->
 </details>
 
 <details open>

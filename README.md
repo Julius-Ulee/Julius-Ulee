@@ -240,11 +240,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 Nov 10, 2023 [Pentingnya Penerapan K3LH](https://julius-ulee.github.io/School-Programs/learn/computer/pentingnya-penerapan-k3lh/)
- - 📕 Nov 9, 2023 [Fungsi Trunk Yang Harus Kamu Ketahui](https://julius-ulee.github.io/School-Programs/article/learn/fungsi-trunk/)
+ - 📘 Nov 16, 2023 [Cara Konfigurasi VLAN Dasar Pada Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-konfigurasi-vlan-dasar-pada-cisco-packet-tracer/)
+ - 📕 Nov 10, 2023 [Pentingnya Penerapan K3LH](https://julius-ulee.github.io/School-Programs/learn/computer/pentingnya-penerapan-k3lh/)
+ - 📙 Nov 9, 2023 [Fungsi Trunk Yang Harus Kamu Ketahui](https://julius-ulee.github.io/School-Programs/article/learn/fungsi-trunk/)
  - 📙 Nov 8, 2023 [Mental Health: Pentingnya Kesehatan Mental](https://julius-ulee.github.io/School-Programs/health/kesehatan-mental/)
- - 📙 Nov 3, 2023 [Python: Pengertian, Contoh Penggunaan, dan Manfaat Mempelajarinya](https://julius-ulee.github.io/School-Programs/learn/python-pengertian-contoh-penggunaan-dan-manfaat-mempelajarinya/)
- - 📕 Nov 2, 2023 [Hewan Langka Komodo yang Berasal dari Indonesia](https://julius-ulee.github.io/School-Programs/hewan/article/article-hewan-langka-indonesia/)<!-- School-Programs:END -->
+ - 📕 Nov 3, 2023 [Python: Pengertian, Contoh Penggunaan, dan Manfaat Mempelajarinya](https://julius-ulee.github.io/School-Programs/learn/python-pengertian-contoh-penggunaan-dan-manfaat-mempelajarinya/)<!-- School-Programs:END -->
 </details>
 
 <details open>

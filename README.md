@@ -221,11 +221,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Julius-Ulee/Python/pull/3) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
-2. 💪 Opened PR [#3](https://github.com/Julius-Ulee/Python/pull/3) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
-3. 🔒 Closed issue [#15](https://github.com/ShirokamiRyzen/Nao-MD/issues/15) in [ShirokamiRyzen/Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD)
-4. ❗ Opened issue [#15](https://github.com/ShirokamiRyzen/Nao-MD/issues/15) in [ShirokamiRyzen/Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD)
-5. ❗ Opened issue [#31](https://github.com/kaveesha-sithum/Dark-Nero-Bot-/issues/31) in [kaveesha-sithum/Dark-Nero-Bot-](https://github.com/kaveesha-sithum/Dark-Nero-Bot-)
+1. ❗ Opened issue [#2](https://github.com/najahiiii/genshin-stats/issues/2) in [najahiiii/genshin-stats](https://github.com/najahiiii/genshin-stats)
+2. 🎉 Merged PR [#3](https://github.com/Julius-Ulee/Python/pull/3) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
+3. 💪 Opened PR [#3](https://github.com/Julius-Ulee/Python/pull/3) in [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python)
+4. 🔒 Closed issue [#15](https://github.com/ShirokamiRyzen/Nao-MD/issues/15) in [ShirokamiRyzen/Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD)
+5. ❗ Opened issue [#15](https://github.com/ShirokamiRyzen/Nao-MD/issues/15) in [ShirokamiRyzen/Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts</h3>

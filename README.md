@@ -240,11 +240,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 Nov 18, 2023 [Cara Setting VOID di Simulasi Jaringan Cisco Packet Tracer &lpar;Via CLI&rpar;](https://julius-ulee.github.io/School-Programs/computer/setting-void-cisco/)
- - 📕 Nov 17, 2023 [Cara Buat Jaringan Client Server Menggunakan Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-membuat-jaringan-client-server/)
+ - 📘 Nov 19, 2023 [Konfigurasi Routing EIGRP pada Cisco](https://julius-ulee.github.io/School-Programs/computer/konfigurasi-routing-eigrp-pada-cisco/)
+ - 📕 Nov 18, 2023 [Cara Setting VOID di Simulasi Jaringan Cisco Packet Tracer &lpar;Via CLI&rpar;](https://julius-ulee.github.io/School-Programs/computer/setting-void-cisco/)
+ - 📙 Nov 17, 2023 [Cara Buat Jaringan Client Server Menggunakan Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-membuat-jaringan-client-server/)
  - 📙 Nov 17, 2023 [Cara Membuat Jaringan Wireless Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-membuat-jaringan-wireless/)
- - 📙 Nov 16, 2023 [Cara Konfigurasi VLAN Dasar Pada Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-konfigurasi-vlan-dasar-pada-cisco-packet-tracer/)
- - 📕 Nov 10, 2023 [Pentingnya Penerapan K3LH](https://julius-ulee.github.io/School-Programs/learn/computer/pentingnya-penerapan-k3lh/)<!-- School-Programs:END -->
+ - 📕 Nov 16, 2023 [Cara Konfigurasi VLAN Dasar Pada Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-konfigurasi-vlan-dasar-pada-cisco-packet-tracer/)<!-- School-Programs:END -->
 </details>
 
 <details open>

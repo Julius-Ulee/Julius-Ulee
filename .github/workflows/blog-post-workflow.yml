@@ -1,6 +1,6 @@
 name: Latest Blog Post
 on:
-  schedule: # At 12:00 UTC
+  schedule: # Run At 12:00 UTC
     - cron: '0 12 * * *'
   workflow_dispatch:
   

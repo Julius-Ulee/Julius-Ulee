@@ -240,11 +240,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 Nov 21, 2023 [Mengenal Port Security Pada Cisco](https://julius-ulee.github.io/School-Programs/computer/mengenal-port-security/)
- - 📕 Nov 20, 2023 [Cara Membuat Garis di HTML](https://julius-ulee.github.io/School-Programs/learn/cara-membuat-garis-html/)
+ - 📘 Nov 23, 2023 [Cara Trunking VLAN Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-trunking/)
+ - 📕 Nov 21, 2023 [Mengenal Port Security Pada Cisco](https://julius-ulee.github.io/School-Programs/computer/mengenal-port-security/)
+ - 📙 Nov 20, 2023 [Cara Membuat Garis di HTML](https://julius-ulee.github.io/School-Programs/learn/cara-membuat-garis-html/)
  - 📙 Nov 20, 2023 [konfigurasi Web server Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/konfigurasi-web-server-cisco/)
- - 📙 Nov 19, 2023 [Konfigurasi Routing EIGRP pada Cisco](https://julius-ulee.github.io/School-Programs/computer/konfigurasi-routing-eigrp-pada-cisco/)
- - 📕 Nov 18, 2023 [Cara Setting VOID di Simulasi Jaringan Cisco Packet Tracer &lpar;Via CLI&rpar;](https://julius-ulee.github.io/School-Programs/computer/setting-void-cisco/)<!-- School-Programs:END -->
+ - 📕 Nov 19, 2023 [Konfigurasi Routing EIGRP pada Cisco](https://julius-ulee.github.io/School-Programs/computer/konfigurasi-routing-eigrp-pada-cisco/)<!-- School-Programs:END -->
 </details>
 
 <details open>

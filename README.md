@@ -75,25 +75,7 @@
 <img src="https://img.shields.io/badge/☆ld%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
     <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO"> <!-- programmer music -->
 <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
-</p>
-
-<details open> 
-<summary><h2>🌠 Donate</h2></summary>
-<table>
-    <tr>
-      <th>Rp. 5k Minimum</th>
-      <th>Bitcoin</th>
-    <tr>
-      <td>
-        <a href="https://saweria.co/AmeliaBotDiscord"><img title="💵 Saweria" src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="41" width="174" /></a>
-      </td>
-      <td>
-        <a href="https://julius-ulee.github.io/Donate/"><img title="🪙 Bitcoin" src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white" alt="Donate Via Bitcoin" height="41" width="174" /></a>
-      </td>
-    </tr>
-  </table>
-  <a href="https://julius-ulee.github.io/Donate/"><img alt="Donating me" title="Donating me" src="https://custom-icon-badges.demolab.com/badge/-Support%20Me%20As%20A%20Programmer-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details> 
+</p> 
  
   <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>

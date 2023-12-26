@@ -225,19 +225,19 @@
  - 📙 Nov 23, 2023 [Cara Trunking VLAN Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-trunking/)
  - 📙 Nov 21, 2023 [Mengenal Port Security Pada Cisco](https://julius-ulee.github.io/School-Programs/computer/mengenal-port-security/)
  - 📕 Nov 20, 2023 [Cara Membuat Garis di HTML](https://julius-ulee.github.io/School-Programs/learn/cara-membuat-garis-html/)<!-- School-Programs:END -->
-</details>
 
 <h3>📊 Metrics</h3>
 <p>
   <a href="https://github.com/Julius-Ulee">
-    <img align="left" width="390" src="metrics/metrics-core.svg"></a>
+    <img align="center" width="390" src="metrics/metrics-core.svg"></a>
   <a href="https://github.com/Julius-Ulee">
-    <img align="left" width="390" src="metrics/metrics-isometric.svg"></a>
+    <img align="center" width="390" src="metrics/metrics-isometric.svg"></a>
   <a href="https://github.com/Julius-Ulee">
-    <img align="right" width="390" src="metrics/metrics-community.svg"></a>
+    <img align="center" width="390" src="metrics/metrics-community.svg"></a>
   <a href="https://github.com/Julius-Ulee">
-    <img align="right" width="390" src="metrics/metrics-achievements.svg"></a>
+    <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
 </p>
+</details>
 
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>

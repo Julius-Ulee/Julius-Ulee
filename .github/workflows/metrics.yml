@@ -1,0 +1,147 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+   metrics-core:
+     runs-on: ubuntu-latest
+     permissions:
+       contents: write
+     steps:
+       - uses: lowlighter/metrics@latest
+         with:
+           filename: metrics/metrics-core.svg
+           token: ${{ secrets.METRICS_TOKEN }}
+           user: Julius-Ulee
+           template: classic
+          
+           # Base
+           base: header, activity, community, repositories
+           base_hireable: yes
+           base_indepth: yes
+          
+           # Base Configs
+           config_octicon: yes
+           config_timezone: Asia/Jakarta
+           config_twemoji: yes
+           repositories_forks: yes
+          
+           # Lines
+           plugin_lines: yes
+           plugin_lines_history_limit: 1
+           plugin_lines_repositories_limit: 4
+           plugin_lines_sections: base
+
+           # topic
+           plugin_topics: yes
+           plugin_topics_limit: 0
+           plugin_topics_mode: icons
+
+   metrics-isometric:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics/metrics-isometric.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            user: Julius-Ulee
+            template: classic
+            
+            # Base
+            base: ""
+            config_timezone: Asia/Jakarta
+            
+            # Isometric Calendar
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
+            
+   metrics-community:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-community.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Julius-Ulee
+          template: classic
+          
+          # Base
+          base: ""
+          config_timezone: Asia/Jakarta
+          
+          # Follow-up Issues and PRs
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+          
+          # People
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          # Reactions
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          
+   metrics-achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Julius-Ulee
+          template: classic
+          
+          # Base
+          base: ""
+          config_timezone: Asia/Jakarta
+          
+          # Achievement
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+
+   metrics-languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Julius-Ulee
+          template: classic
+          
+          # Base
+          base: ""
+          config_timezone: Asia/Jakarta
+          
+          # Languages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%

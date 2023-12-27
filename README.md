@@ -220,11 +220,11 @@
 <h3>📔 Latest School Programs Posts</h3>
 
 <!-- School-Programs:START -->
- - 📘 Dec 21, 2023 [Konfigurasi Jaringan Komputer Cisco dengan Sistem Keamanan, DHCP Server, dan Banner MOTD pada Router.](https://julius-ulee.github.io/School-Programs/computer/topologi-dhcp-server-dan-static/)
- - 📕 Nov 24, 2023 [Inter-VLAN - Router on a Stick](https://julius-ulee.github.io/School-Programs/computer/inter-vlan-router-on-a-stick/)
+ - 📘 Dec 26, 2023 [Belajar Laravel 8](https://julius-ulee.github.io/School-Programs/coding/php/belajar-laravel-8/)
+ - 📕 Dec 21, 2023 [Konfigurasi Jaringan Komputer Cisco dengan Sistem Keamanan, DHCP Server, dan Banner MOTD pada Router.](https://julius-ulee.github.io/School-Programs/computer/topologi-dhcp-server-dan-static/)
+ - 📙 Nov 24, 2023 [Inter-VLAN - Router on a Stick](https://julius-ulee.github.io/School-Programs/computer/inter-vlan-router-on-a-stick/)
  - 📙 Nov 23, 2023 [Cara Trunking VLAN Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-trunking/)
- - 📙 Nov 21, 2023 [Mengenal Port Security Pada Cisco](https://julius-ulee.github.io/School-Programs/computer/mengenal-port-security/)
- - 📕 Nov 20, 2023 [Cara Membuat Garis di HTML](https://julius-ulee.github.io/School-Programs/learn/cara-membuat-garis-html/)<!-- School-Programs:END -->
+ - 📕 Nov 21, 2023 [Mengenal Port Security Pada Cisco](https://julius-ulee.github.io/School-Programs/computer/mengenal-port-security/)<!-- School-Programs:END -->
 
 <h3>📊 Metrics</h3>
 <p>

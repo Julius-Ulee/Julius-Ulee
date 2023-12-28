@@ -96,8 +96,8 @@
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Destiny.Industries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
     <a href="https://github.com/Julius-Ulee/Perpustakaan">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Perpustakaan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
-    <a href="https://github.com/Julius-Ulee/Sweetcake">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Sweetcake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
+    <a href="https://github.com/Julius-Ulee/Daily-Weather">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     <a href="https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Check-In-Genshin-Impact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     <a href="https://github.com/Julius-Ulee/holobyte.github.io">

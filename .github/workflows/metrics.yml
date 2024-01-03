@@ -15,7 +15,7 @@ jobs:
          with:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
-           user: Julius-Ulee
+           user: ${{ github.repository_owner }}
            template: classic
           
            # Base
@@ -49,7 +49,7 @@ jobs:
           with:
             filename: metrics/metrics-isometric.svg
             token: ${{ secrets.METRICS_TOKEN }}
-            user: Julius-Ulee
+            user: ${{ github.repository_owner }}
             template: classic
             
             # Base
@@ -69,7 +69,7 @@ jobs:
         with:
           filename: metrics/metrics-community.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Julius-Ulee
+          user: ${{ github.repository_owner }}
           template: classic
           
           # Base
@@ -104,7 +104,7 @@ jobs:
         with:
           filename: metrics/metrics-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Julius-Ulee
+          user: ${{ github.repository_owner }}
           template: classic
           
           # Base
@@ -126,7 +126,7 @@ jobs:
         with:
           filename: metrics/metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Julius-Ulee
+          user: ${{ github.repository_owner }}
           template: classic
           
           # Base

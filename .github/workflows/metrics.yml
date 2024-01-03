@@ -16,6 +16,7 @@ jobs:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
            user: ${{ github.repository_owner }}
+           email: fidzlieazriel@gmail.com
            template: classic
           
            # Base

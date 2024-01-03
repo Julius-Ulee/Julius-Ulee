@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
-          committer_username: Julius-Ulee
+          committer_username: ${{ github.repository_owner }}
           committer_email: fidzlieazriel@gmail.com
           commit_message: "📕 Update this repo's README with latest blog posts"
           date_format: "mmm d, yyyy"
@@ -28,7 +28,7 @@ jobs:
         with:
           comment_tag_name: School-Programs
           max_post_count: "5"
-          committer_username: Julius-Ulee
+          committer_username: ${{ github.repository_owner }}
           committer_email: fidzlieazriel@gmail.com
           commit_message: "📔 Update this repo's README with latest School Programs posts"
           date_format: "mmm d, yyyy"

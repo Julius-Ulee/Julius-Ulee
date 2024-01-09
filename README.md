@@ -220,11 +220,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Jan 2, 2024 [Cara Instal XAMPP di Windows](https://julius-ulee.github.io/School-Programs/computer/cara-install-xampp/)
- - 📕 Dec 21, 2023 [Konfigurasi Jaringan Komputer Cisco dengan Sistem Keamanan, DHCP Server, dan Banner MOTD pada Router.](https://julius-ulee.github.io/School-Programs/computer/topologi-dhcp-server-dan-static/)
+ - 📘 Jan 8, 2024 [Cara Install GIT dan Konfigurasi Awal di Windows](https://julius-ulee.github.io/School-Programs/software/cara-install-git-diwindows-serta-konfigurasi/)
+ - 📕 Jan 2, 2024 [Cara Install XAMPP di Windows](https://julius-ulee.github.io/School-Programs/software/cara-install-xampp/)
+ - 📙 Dec 21, 2023 [Konfigurasi Jaringan Komputer Cisco dengan Sistem Keamanan, DHCP Server, dan Banner MOTD pada Router.](https://julius-ulee.github.io/School-Programs/computer/topologi-dhcp-server-dan-static/)
  - 📙 Nov 24, 2023 [Inter-VLAN - Router on a Stick](https://julius-ulee.github.io/School-Programs/computer/inter-vlan-router-on-a-stick/)
- - 📙 Nov 23, 2023 [Cara Trunking VLAN Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-trunking/)
- - 📕 Nov 21, 2023 [Mengenal Port Security Pada Cisco](https://julius-ulee.github.io/School-Programs/computer/mengenal-port-security/)<!-- School-Programs:END -->
+ - 📕 Nov 23, 2023 [Cara Trunking VLAN Cisco Packet Tracer](https://julius-ulee.github.io/School-Programs/computer/cara-trunking/)<!-- School-Programs:END -->
 
 <h3>📊 Metrics</h3>
 <p>

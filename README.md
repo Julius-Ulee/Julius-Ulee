@@ -201,11 +201,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6.0](https://github.com/Julius-Ulee/Announcements-Anime/releases/tag/v1.6.0) in [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime)
-2. 🚀 Published release [v1.5.0](https://github.com/Julius-Ulee/Announcements-Anime/releases/tag/v1.5.0) in [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime)
-3. ❗ Opened issue [#64](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/64) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-4. 🗣 Commented on [#63](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/63#issuecomment-1883481088) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-5. 🔒 Closed issue [#63](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/63) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+1. 🚀 Published release [v0.3.0-beta](https://github.com/Julius-Ulee/Destiny.Industries/releases/tag/v0.3.0-beta) in [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries)
+2. 🚀 Published release [v0.1.0-beta](https://github.com/Julius-Ulee/Paw-Paw/releases/tag/v0.1.0-beta) in [Julius-Ulee/Paw-Paw](https://github.com/Julius-Ulee/Paw-Paw)
+3. 🚀 Published release [v1.6.0](https://github.com/Julius-Ulee/Announcements-Anime/releases/tag/v1.6.0) in [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime)
+4. 🚀 Published release [v1.5.0](https://github.com/Julius-Ulee/Announcements-Anime/releases/tag/v1.5.0) in [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime)
+5. ❗ Opened issue [#64](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/64) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>

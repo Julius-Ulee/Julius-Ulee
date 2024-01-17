@@ -88,8 +88,8 @@
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     <a href="https://github.com/Julius-Ulee/Program-ATM">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Program-ATM&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/Crypto-Mining">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Crypto-Mining&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
+    <a href="https://github.com/Julius-Ulee/Paw-Paw">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Paw-Paw&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
     <a href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
     <a href="https://github.com/Julius-Ulee/Destiny.Industries">

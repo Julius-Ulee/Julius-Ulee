@@ -48,7 +48,7 @@
 </p>
 
 <p align="center"> <!-- Trophy -->
-  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true">
+  <a href="https://github.com/Julius-Ulee"><img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true"></a>
 </p>
 
  <!-- https://github.com/anuraghazra/github-readme-stats -->

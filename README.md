@@ -1,11 +1,20 @@
-<p align="center"><a href="https://holopin.io/@juliusulee"><img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a></p>
-
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Julius+Ulee" alt="Typing SVG" /></a>
+  <a href="https://holopin.io/@juliusulee">
+    <img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board">
+  </a>
 </p>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Always+learning+new+things;Experienced+UI%2FUX+Designer;Open-Source+Developer+" alt="Typing SVG" /></a>
+  <a href="https://github.com/Julius-Ulee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Julius+Ulee" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Julius-Ulee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Always+learning+new+things;Experienced+UI%2FUX+Designer;Open-Source+Developer+" alt="Typing SVG" />
+  </a>
+</p>
   
   <!-- Social icons section -->
 <p align="center">
@@ -265,5 +274,7 @@
 </p>
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
+  <a href="https://github.com/Julius-Ulee">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
+  </a>
 </p>

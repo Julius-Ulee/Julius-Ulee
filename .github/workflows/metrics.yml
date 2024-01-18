@@ -15,6 +15,7 @@ jobs:
          with:
            filename: metrics/metrics-core.svg
            token: ${{ secrets.METRICS_TOKEN }}
+           committer_message: "📊 Update Metrics with the Github Action"
            user: ${{ github.repository_owner }}
            template: classic
           
@@ -40,6 +41,9 @@ jobs:
            plugin_topics_limit: 0
            plugin_topics_mode: icons
 
+           # notable
+           plugin_notable: yes
+
    metrics-isometric:
       runs-on: ubuntu-latest
       permissions:
@@ -49,6 +53,7 @@ jobs:
           with:
             filename: metrics/metrics-isometric.svg
             token: ${{ secrets.METRICS_TOKEN }}
+            committer_message: "📊 Update Metrics with the Github Action"
             user: ${{ github.repository_owner }}
             template: classic
             
@@ -69,6 +74,7 @@ jobs:
         with:
           filename: metrics/metrics-community.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 Update Metrics with the Github Action"
           user: ${{ github.repository_owner }}
           template: classic
           
@@ -104,6 +110,7 @@ jobs:
         with:
           filename: metrics/metrics-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 Update Metrics with the Github Action"
           user: ${{ github.repository_owner }}
           template: classic
           
@@ -126,6 +133,7 @@ jobs:
         with:
           filename: metrics/metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 Update Metrics with the Github Action"
           user: ${{ github.repository_owner }}
           template: classic
           

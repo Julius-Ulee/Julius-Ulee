@@ -229,11 +229,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)
- - 📕 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)
+ - 📘 Jan 18, 2024 [Langkah Migrasi dari Subversion ke Git](https://julius-ulee.github.io/School-Programs/learn/migrasi-svn-git/)
+ - 📕 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)
+ - 📙 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)
  - 📙 Jan 15, 2024 [Fix Github Remote Permission Denied In Windows](https://julius-ulee.github.io/School-Programs/software/fix-github-remote-permission-denied/)
- - 📙 Jan 8, 2024 [Cara Install GIT dan Konfigurasi Awal di Windows](https://julius-ulee.github.io/School-Programs/software/cara-install-git-diwindows-serta-konfigurasi/)
- - 📕 Jan 2, 2024 [Cara Install XAMPP di Windows](https://julius-ulee.github.io/School-Programs/software/cara-install-xampp/)<!-- School-Programs:END -->
+ - 📕 Jan 8, 2024 [Cara Install GIT dan Konfigurasi Awal di Windows](https://julius-ulee.github.io/School-Programs/software/cara-install-git-diwindows-serta-konfigurasi/)<!-- School-Programs:END -->
 
 <h3>📊 Metrics</h3>
 <p>

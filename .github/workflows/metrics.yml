@@ -64,10 +64,11 @@ jobs:
             # Isometric Calendar
             plugin_isocalendar: yes
 
-            # license
-            plugin_licenses: yes
-            plugin_licenses_setup: npm ci
-            plugin_licenses_ratio: yes
+            # recent activity
+            plugin_activity: yes
+            plugin_activity_limit: 5
+            plugin_activity_days: 0
+            plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
             # discussions
             plugin_discussions: yes

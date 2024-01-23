@@ -64,6 +64,10 @@ jobs:
             # Isometric Calendar
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
+
+            # discussions
+            plugin_discussions: yes
+            plugin_discussions_categories_limit: 8
             
    metrics-community:
     runs-on: ubuntu-latest

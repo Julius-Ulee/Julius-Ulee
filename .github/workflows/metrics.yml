@@ -63,7 +63,12 @@ jobs:
             
             # Isometric Calendar
             plugin_isocalendar: yes
-            plugin_isocalendar_duration: full-year
+
+            # license
+            plugin_licenses: yes
+            plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+            plugin_licenses_legal: no
+            plugin_licenses_ratio: yes
 
             # discussions
             plugin_discussions: yes

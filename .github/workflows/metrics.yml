@@ -66,7 +66,7 @@ jobs:
 
             # stargazers
             plugin_stargazers: yes
-            plugin_stargazers_charts_type: graph
+            plugin_stargazers_charts_type: classic
 
             # discussions
             plugin_discussions: yes

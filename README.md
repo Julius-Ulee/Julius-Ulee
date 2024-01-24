@@ -229,11 +229,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Jan 20, 2024 [Teori Seputar Catalyst. - Weird Genius &lpar;ft. Pepita&rpar;](https://julius-ulee.github.io/School-Programs/music/teori-seputar-catalyst-weird-genius/)
- - 📕 Jan 18, 2024 [Langkah Migrasi dari Subversion ke Git](https://julius-ulee.github.io/School-Programs/learn/migrasi-svn-git/)
+ - 📘 Jan 23, 2024 [Lyrics dan Teori Seputar Weird Genius - Lathi &lpar;ft. Sara Fajira&rpar;](https://julius-ulee.github.io/School-Programs/music/lyrics-dan-teori-lathi/)
+ - 📕 Jan 20, 2024 [Lyrics dan Teori Seputar Catalyst. - Weird Genius &lpar;ft. Pepita&rpar;](https://julius-ulee.github.io/School-Programs/music/teori-seputar-catalyst-weird-genius/)
+ - 📙 Jan 18, 2024 [Langkah Migrasi dari Subversion ke Git](https://julius-ulee.github.io/School-Programs/learn/migrasi-svn-git/)
  - 📙 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)
- - 📙 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)
- - 📕 Jan 15, 2024 [Fix Github Remote Permission Denied In Windows](https://julius-ulee.github.io/School-Programs/software/fix-github-remote-permission-denied/)<!-- School-Programs:END -->
+ - 📕 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)<!-- School-Programs:END -->
 
 <h3>📊 Metrics</h3>
 <p>

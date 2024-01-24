@@ -64,11 +64,9 @@ jobs:
             # Isometric Calendar
             plugin_isocalendar: yes
 
-            # recent activity
-            plugin_activity: yes
-            plugin_activity_limit: 5
-            plugin_activity_days: 0
-            plugin_activity_filter: issue, pr, release, fork, review, ref/create
+            # stargazers
+            plugin_stargazers: yes
+            plugin_stargazers_charts_type: graph
 
             # discussions
             plugin_discussions: yes

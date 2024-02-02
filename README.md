@@ -234,10 +234,10 @@
 
 <!-- School-Programs:START -->
  - 📘 Feb 2, 2024 [Basic Python #1](https://julius-ulee.github.io/School-Programs/python/basic-python/)
- - 📕 Jan 28, 2024 [Panduan Pandoc](https://julius-ulee.github.io/School-Programs/pandoc/panduan-pandoc/)
+ - 📕 Feb 2, 2024 [Basic Python #2](https://julius-ulee.github.io/School-Programs/python/basic-python2/)
+ - 📙 Jan 28, 2024 [Panduan Pandoc](https://julius-ulee.github.io/School-Programs/pandoc/panduan-pandoc/)
  - 📙 Jan 18, 2024 [Langkah Migrasi dari Subversion ke Git](https://julius-ulee.github.io/School-Programs/learn/migrasi-svn-git/)
- - 📙 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)
- - 📕 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)<!-- School-Programs:END -->
+ - 📕 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)<!-- School-Programs:END -->
 
 </details>
 

@@ -85,13 +85,6 @@
   <a href="https://github.com/Julius-Ulee">
     <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
 </p>
-
- <!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width="98%"/></a>
-  <br/>
-</p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
@@ -246,7 +239,19 @@
  - 📙 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)
  - 📕 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)<!-- School-Programs:END -->
 
-<details open>
+</details>
+
+<details>
+<summary><h2>🖼️ Github Profile 3D</h2></summary>
+
+<p align="center">
+  <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width="98%"/></a>
+  <br/>
+</p>  
+</details>
+
+<details>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
   
   <p align="center">

@@ -51,6 +51,27 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Julius-Ulee&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
+<p align="center"> <!-- spotify -->
+  <a href="https://open.spotify.com/user/313w7gwusryjcgatpheimipv3fqu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
+</p>
+
+<p align="center"> <!-- playlist -->
+  <a href="https://open.spotify.com/playlist/3T4FA6oFSshCBVOz96OmBc"> <!-- genshin impact music -->
+    <img src="https://img.shields.io/badge/Genshin%20Impact-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/playlist/2kpKIV6i5hafkZtvKCcOHB"> <!-- pop music -->
+    <img src="https://img.shields.io/badge/P☆P%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/playlist/7JPfNoSSMnFpoS9k0cqPx8"> <!-- old music -->
+    <img src="https://img.shields.io/badge/☆ld%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO"> <!-- programmer music -->
+    <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
+</p>
+
+<p align=center> <!-- Discord -->
+  <a href="https://discordapp.com/users/385442265302302721">
+    <img title="Discord Profile" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png">
+  </a>
+</p>
+
 <p align="center"> <!-- Stats -->
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height="192px"/></a>
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px"/></a>
@@ -81,21 +102,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true"/></a>
-</p>
-
-<p align="center"> <!-- spotify -->
-  <a href="https://open.spotify.com/user/313w7gwusryjcgatpheimipv3fqu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true"></a>
-</p>
-
-<p align="center"> <!-- playlist -->
-  <a href="https://open.spotify.com/playlist/3T4FA6oFSshCBVOz96OmBc"> <!-- genshin impact music -->
-    <img src="https://img.shields.io/badge/Genshin%20Impact-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
-  <a href="https://open.spotify.com/playlist/2kpKIV6i5hafkZtvKCcOHB"> <!-- pop music -->
-    <img src="https://img.shields.io/badge/P☆P%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
-  <a href="https://open.spotify.com/playlist/7JPfNoSSMnFpoS9k0cqPx8"> <!-- old music -->
-    <img src="https://img.shields.io/badge/☆ld%20Music♫-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
-  <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO"> <!-- programmer music -->
-    <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
 </p> 
  
 <details open>
@@ -263,12 +269,6 @@
   <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
   <a target="_blank" href="https://t.me/juliusulee"><img title="My Telegram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
   <a target="_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img title="My Youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
-</p>
-
-<p align=center> <!-- Discord -->
-  <a href="https://discordapp.com/users/385442265302302721">
-    <img title="Discord Profile" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png">
-  </a>
 </p>
   
 <p align="center">

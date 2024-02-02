@@ -60,6 +60,17 @@
   <a href="https://github.com/Julius-Ulee"><img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Julius-Ulee">
+    <img align="center" width="390" src="metrics/metrics-core.svg"></a>
+  <a href="https://github.com/Julius-Ulee">
+    <img align="center" width="390" src="metrics/metrics-isometric.svg"></a>
+  <a href="https://github.com/Julius-Ulee">
+    <img align="center" width="390" src="metrics/metrics-community.svg"></a>
+  <a href="https://github.com/Julius-Ulee">
+    <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
+</p>
+
  <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
@@ -200,7 +211,7 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   
   <h3>🔥 Streak Stats</h3>
-  <p align="center">
+  <p>
     <a href="https://github.com/Julius-Ulee">
       <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true">
     </a>
@@ -234,19 +245,6 @@
  - 📙 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)
  - 📙 Jan 16, 2024 [Cara Menggunakan GIT Dengan SVN](https://julius-ulee.github.io/School-Programs/learn/cara-menggunakan-git/)
  - 📕 Jan 15, 2024 [Fix Github Remote Permission Denied In Windows](https://julius-ulee.github.io/School-Programs/software/fix-github-remote-permission-denied/)<!-- School-Programs:END -->
-
-<h3>📊 Metrics</h3>
-<p>
-  <a href="https://github.com/Julius-Ulee">
-    <img align="center" width="390" src="metrics/metrics-core.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
-    <img align="center" width="390" src="metrics/metrics-isometric.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
-    <img align="center" width="390" src="metrics/metrics-community.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
-    <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
-</p>
-</details>
 
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>

@@ -66,12 +66,6 @@
     <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
 </p>
 
-<p align=center> <!-- Discord -->
-  <a href="https://discordapp.com/users/385442265302302721">
-    <img title="Discord Profile" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png">
-  </a>
-</p>
-
 <p align="center"> <!-- Stats -->
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height="192px"/></a>
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px"/></a>
@@ -269,6 +263,12 @@
   <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
   <a target="_blank" href="https://t.me/juliusulee"><img title="My Telegram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
   <a target="_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img title="My Youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
+</p>
+
+<p align=center> <!-- Discord -->
+  <a href="https://discordapp.com/users/385442265302302721">
+    <img title="Discord Profile" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/385442265302302721.png">
+  </a>
 </p>
   
 <p align="center">

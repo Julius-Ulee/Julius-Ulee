@@ -233,11 +233,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Feb 2, 2024 [Basic Python #1](https://julius-ulee.github.io/School-Programs/python/basic-python/)
- - 📕 Feb 2, 2024 [Basic Python #2](https://julius-ulee.github.io/School-Programs/python/basic-python2/)
+ - 📘 Feb 3, 2024 [Pengenalan Operasi Aritmatika dan Interaksi dengan Pengguna dalam Python](https://julius-ulee.github.io/School-Programs/python/operasi-aritmatika/)
+ - 📕 Feb 2, 2024 [Pemahaman Mendalam tentang Pengambilan Input pada Python untuk Berbagai Tipe Data](https://julius-ulee.github.io/School-Programs/python/basic-python-tipe-data/)
+ - 📙 Feb 1, 2024 [Pengenalan Dasar Python: Variabel, Tipe Data, dan Operasi Dasar](https://julius-ulee.github.io/School-Programs/python/basic-python/)
  - 📙 Jan 28, 2024 [Panduan Pandoc](https://julius-ulee.github.io/School-Programs/pandoc/panduan-pandoc/)
- - 📙 Jan 18, 2024 [Langkah Migrasi dari Subversion ke Git](https://julius-ulee.github.io/School-Programs/learn/migrasi-svn-git/)
- - 📕 Jan 17, 2024 [Cara Berkontribusi Open Source Github](https://julius-ulee.github.io/School-Programs/learn/cara-berkontribusi-opensource/)<!-- School-Programs:END -->
+ - 📕 Jan 18, 2024 [Langkah Migrasi dari Subversion ke Git](https://julius-ulee.github.io/School-Programs/learn/migrasi-svn-git/)<!-- School-Programs:END -->
 
 </details>
 

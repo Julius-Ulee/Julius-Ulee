@@ -214,10 +214,10 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/School-Programs/pull/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
-2. 🗣 Commented on [#5](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/5#issuecomment-1914731484) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-3. 🗣 Commented on [#5](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/5#issuecomment-1914297810) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-4. 🗣 Commented on [#10351](https://github.com/simple-icons/simple-icons/issues/10351#issuecomment-1908289933) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/School-Programs/pull/2) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
+2. 🎉 Merged PR [#1](https://github.com/Julius-Ulee/School-Programs/pull/1) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
+3. 🗣 Commented on [#5](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/5#issuecomment-1914731484) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+4. 🗣 Commented on [#5](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/5#issuecomment-1914297810) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
 5. 🚀 Published release [v1.5.0](https://github.com/Julius-Ulee/Announcements-Anime/releases/tag/v1.5.0) in [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime)
 <!--END_SECTION:activity-->
 

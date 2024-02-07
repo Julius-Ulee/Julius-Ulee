@@ -33,4 +33,4 @@ jobs:
           commit_message: "📔 Update this repo's README with latest School Programs posts"
           date_format: "mmm d, yyyy"
           template: $newline - $randomEmoji(📗,📘,📙,📕,📔) $date [$title]($url)
-          feed_list: "https://schoolprograms.my.id/feed"
+          feed_list: "https://schoolprograms.my.id/"

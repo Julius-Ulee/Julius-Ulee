@@ -214,11 +214,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#64](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/64) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-2. 🔒 Closed issue [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-3. 🗣 Commented on [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65#issuecomment-1930813176) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-4. ❗ Opened issue [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-5. 🎉 Merged PR [#2](https://github.com/Julius-Ulee/School-Programs/pull/2) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
+1. 🎉 Merged PR [#3](https://github.com/Julius-Ulee/School-Programs/pull/3) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
+2. 🔒 Closed issue [#64](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/64) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+3. 🔒 Closed issue [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+4. 🗣 Commented on [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65#issuecomment-1930813176) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+5. ❗ Opened issue [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>

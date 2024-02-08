@@ -233,11 +233,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Feb 7, 2024 [Pemahaman dan Penggunaan Type Data Dictionary &lpar;Tuple&rpar; dalam Python](/python/dictionary-python/)
- - 📕 Feb 6, 2024 [Komparasi dan Logika pada Python](/python/komparasi-dan-logika-python/)
- - 📙 Feb 5, 2024 [Pemahaman Mendalam tentang Operasi Logika dan Boolean dalam Python](/python/operasi-logika-python/)
- - 📙 Feb 4, 2024 [Konversi Suhu dengan Python](/python/konversi-suhu/)
- - 📕 Feb 3, 2024 [Pengenalan Operasi Aritmatika dan Interaksi dengan Pengguna dalam Python](/python/operasi-aritmatika/)<!-- School-Programs:END -->
+ - 📘 Feb 8, 2024 [Pengenalan Penggunaan List Argument dalam Fungsi Pembuatan HTML](https://schoolprograms.my.id/python/argument-list/)
+ - 📕 Feb 7, 2024 [Pemahaman dan Penggunaan Type Data Dictionary &lpar;Tuple&rpar; dalam Python](https://schoolprograms.my.id/python/dictionary-python/)
+ - 📙 Feb 6, 2024 [Komparasi dan Logika pada Python](https://schoolprograms.my.id/python/komparasi-dan-logika-python/)
+ - 📙 Feb 5, 2024 [Pemahaman Mendalam tentang Operasi Logika dan Boolean dalam Python](https://schoolprograms.my.id/python/operasi-logika-python/)
+ - 📕 Feb 4, 2024 [Konversi Suhu dengan Python](https://schoolprograms.my.id/python/konversi-suhu/)<!-- School-Programs:END -->
 
 </details>
 

@@ -214,11 +214,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/4) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-2. 🎉 Merged PR [#3](https://github.com/Julius-Ulee/School-Programs/pull/3) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
-3. 🔒 Closed issue [#64](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/64) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-4. 🔒 Closed issue [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-5. 🗣 Commented on [#65](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/65#issuecomment-1930813176) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+1. 🗣 Commented on [#66](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/66#issuecomment-1937089209) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+2. 🔒 Closed issue [#66](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/66) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+3. ❗ Opened issue [#66](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/66) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+4. 🔒 Closed issue [#4](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/issues/4) in [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
+5. 🎉 Merged PR [#3](https://github.com/Julius-Ulee/School-Programs/pull/3) in [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>

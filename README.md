@@ -214,11 +214,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/85#issuecomment-1947071886) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-2. 🔒 Closed issue [#85](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/85) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-3. ❗ Opened issue [#85](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/85) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-4. 🗣 Commented on [#84](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/84#issuecomment-1946198424) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-5. 🔒 Closed issue [#84](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/84) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+1. 🗣 Commented on [#87](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/87#issuecomment-1950235218) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+2. 🔒 Closed issue [#87](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/87) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+3. ❗ Opened issue [#87](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/87) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+4. 🔒 Closed issue [#86](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/86) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+5. 🗣 Commented on [#86](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/86#issuecomment-1949927921) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>

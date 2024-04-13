@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/mas_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/VzUR95y" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/385442265302302721" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/juliusulee"><img width="32px" alt="Dev.to" title="Julius-Ulee Dev.to" src="https://i.imgur.com/mVm29vK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -45,7 +45,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Julius-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Julius-Ulee?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://discord.gg/VzUR95y">
+  <a href="https://discord.gg/THTe38vX8f">
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/706339390053416981?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a><br>
   <a href="https://github.com/Julius-Ulee">
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Julius-Ulee&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>

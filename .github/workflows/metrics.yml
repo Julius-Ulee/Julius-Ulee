@@ -55,26 +55,43 @@ jobs:
             token: NOT_NEEDED
             committer_message: "📊 Update Metrics with the Github Action"
             user: ${{ github.repository_owner }}
+
+            # Base
             base: ""
+
+            # Pages Speed
             plugin_pagespeed: yes
             plugin_pagespeed_screenshot: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
             plugin_pagespeed_url: https://schoolprograms.my.id
 
-   metrics-leetcode:
+   metrics-skyline:
       runs-on: ubuntu-latest
       permissions:
         contents: write
       steps:
         - uses: lowlighter/metrics@latest
           with:
-            filename: metrics/metrics-leetcode.svg
+            filename: metrics/metrics-skyline.svg
             token: NOT_NEEDED
             committer_message: "📊 Update Metrics with the Github Action"
             user: ${{ github.repository_owner }}
+
+            # Base
             base: ""
-            plugin_leetcode: yes
-            plugin_leetcode_sections: solved, skills, recent
+
+            # skyline
+            plugin_skyline: yes
+            plugin_skyline_year: 2020
+            plugin_skyline_frames: 6
+            plugin_skyline_quality: 1
+            plugin_skyline_settings: |
+              {
+                "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+                "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+                "wait": 4,
+                "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+              }
 
    metrics-isometric:
       runs-on: ubuntu-latest

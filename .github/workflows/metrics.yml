@@ -51,14 +51,26 @@ jobs:
       steps:
         - uses: lowlighter/metrics@latest
           with:
-            filename: metrics/metrics-plugin-pagespeed.svg
+            filename: metrics/metrics-pagespeed.svg
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_screenshot: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
             plugin_pagespeed_url: https://schoolprograms.my.id
-            plugin_pagespeed_pwa: yes
+
+   metrics-leetcode:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics/metrics-leetcode.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_leetcode: yes
+            plugin_leetcode_sections: solved, skills, recent
 
    metrics-isometric:
       runs-on: ubuntu-latest

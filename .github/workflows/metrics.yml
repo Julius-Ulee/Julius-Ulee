@@ -44,6 +44,21 @@ jobs:
            # notable
            plugin_notable: yes
 
+   metrics-pagespeed:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.pagespeed.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_pagespeed: yes
+            plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+            plugin_pagespeed_url: https://schoolprograms.my.id
+            plugin_pagespeed_pwa: yes
+
    metrics-isometric:
       runs-on: ubuntu-latest
       permissions:

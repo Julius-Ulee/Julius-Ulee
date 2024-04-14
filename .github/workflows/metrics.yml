@@ -53,6 +53,8 @@ jobs:
           with:
             filename: metrics/metrics-pagespeed.svg
             token: NOT_NEEDED
+            committer_message: "📊 Update Metrics with the Github Action"
+            user: ${{ github.repository_owner }}
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_screenshot: yes
@@ -68,6 +70,8 @@ jobs:
           with:
             filename: metrics/metrics-leetcode.svg
             token: NOT_NEEDED
+            committer_message: "📊 Update Metrics with the Github Action"
+            user: ${{ github.repository_owner }}
             base: ""
             plugin_leetcode: yes
             plugin_leetcode_sections: solved, skills, recent

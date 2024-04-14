@@ -81,7 +81,11 @@
   <a href="https://github.com/Julius-Ulee">
     <img align="center" width="390" src="metrics/metrics-isometric.svg"></a>
   <a href="https://github.com/Julius-Ulee">
+    <img align="center" width="390" src="metrics/metrics-pagespeed.svg"></a>
+  <a href="https://github.com/Julius-Ulee">
     <img align="center" width="390" src="metrics/metrics-community.svg"></a>
+  <a href="https://github.com/Julius-Ulee">
+    <img align="center" width="390" src="metrics/metrics-skyline.svg"></a>
   <a href="https://github.com/Julius-Ulee">
     <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
 </p>

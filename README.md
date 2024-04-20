@@ -100,7 +100,7 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="center">
+  <p>
     <a href="https://github.com/Julius-Ulee/AmeliaBot-Discord">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     <a href="https://github.com/Julius-Ulee/Program-ATM">
@@ -125,7 +125,7 @@
       
 <details open>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-  <p align="center">
+  <p>
     <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=King-Genshin-StarRail-Stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
     <a href="https://github.com/Julius-Ulee/julius-ulee.github.io">

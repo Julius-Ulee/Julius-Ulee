@@ -237,11 +237,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
- - 📕 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
+ - 📘 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
+ - 📕 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
+ - 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
  - 📙 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)
- - 📙 Feb 8, 2024 [Pengenalan Penggunaan List Argument dalam Fungsi Pembuatan HTML](https://schoolprograms.my.id/python/argument-list/)
- - 📕 Feb 7, 2024 [Pemahaman dan Penggunaan Type Data Dictionary &lpar;Tuple&rpar; dalam Python](https://schoolprograms.my.id/python/dictionary-python/)<!-- School-Programs:END -->
+ - 📕 Feb 8, 2024 [Pengenalan Penggunaan List Argument dalam Fungsi Pembuatan HTML](https://schoolprograms.my.id/python/argument-list/)<!-- School-Programs:END -->
 
 </details>
 

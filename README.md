@@ -52,7 +52,7 @@
 </p>
 
 <p align="center"> <!-- spotify -->
-  <a href="https://open.spotify.com/user/313w7gwusryjcgatpheimipv3fqu"><img title="💽 Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
+  <a href="https://open.spotify.com/user/313w7gwusryjcgatpheimipv3fqu"><img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
 </p>
 
 <p align="center"> <!-- playlist -->

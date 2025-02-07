@@ -210,7 +210,7 @@
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/Julius-Ulee">
-      <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true">
+      <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true">
     </a>
   </p>
 

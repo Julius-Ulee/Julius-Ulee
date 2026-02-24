@@ -179,12 +179,11 @@
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-- 📘 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
-- 📕 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
-- 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
-- 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
-- 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
+ - 📘 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
+ - 📕 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
+ - 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
+ - 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
+ - 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
 
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 

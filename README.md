@@ -66,15 +66,6 @@
     <img src="https://img.shields.io/badge/</>Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"/></a>
 </p>
 
-<p align="center"> <!-- Stats -->
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Github Stats" alt="Julius-Ulee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Julius-Ulee&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height="192px"/></a>
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Top Languages" alt="Julius-Ulee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Ulee&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px"/></a>
-</p>
-
-<p align="center"> <!-- Trophy -->
-  <a href="https://github.com/Julius-Ulee"><img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=Julius-Ulee&theme=radical&no-frame=true&row=1&column=7&no-bg=true"></a>
-</p>
-
 <p align="center"> <!-- Matrics -->
   <a href="https://github.com/Julius-Ulee">
     <img align="center" width="390" src="metrics/metrics-core.svg"></a>
@@ -94,47 +85,6 @@
 <p align="center">
   <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true"/></a>
 </p> 
- 
-<details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/Julius-Ulee/AmeliaBot-Discord">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=AmeliaBot-Discord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/Program-ATM">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Program-ATM&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/Paw-Paw">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Paw-Paw&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
-    <a href="https://github.com/Julius-Ulee/WhatsApp-OpenAI">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=WhatsApp-OpenAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
-    <a href="https://github.com/Julius-Ulee/Destiny.Industries">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Destiny.Industries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
-    <a href="https://github.com/Julius-Ulee/Perpustakaan">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Perpustakaan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a> 
-    <a href="https://github.com/Julius-Ulee/Daily-Weather">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/Daily-Check-In-Genshin-Impact">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=Daily-Check-In-Genshin-Impact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/holobyte.github.io">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=holobyte.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-  </p>
-  <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-      
-<details open>
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-  <p align="left">
-    <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=King-Genshin-StarRail-Stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/julius-ulee.github.io">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=julius-ulee.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-    <a href="https://github.com/Julius-Ulee/School-Programs">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Julius-Ulee&repo=School-Programs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /></a>
-  </p>
-  <a href="https://github.com/Julius-Ulee?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
         
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -218,6 +168,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
+
 1. 🔒 Closed issue [#123](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/123) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
 2. 🗣 Commented on [#123](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/123#issuecomment-3917671225) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
 3. ℹ️ Labeled issue [#123](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/123) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
@@ -228,20 +179,22 @@
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
- - 📕 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
- - 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
- - 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
- - 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
+
+- 📘 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
+- 📕 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
+- 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
+- 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
+- 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
 
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
- - 📕 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
- - 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
- - 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
- - 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
+
+- 📘 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
+- 📕 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
+- 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
+- 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
+- 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
 
 </details>
 

@@ -70,6 +70,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Ambil tahun saat ini
+        run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
+
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics-skyline.svg
@@ -82,7 +85,7 @@ jobs:
 
           # skyline
           plugin_skyline: yes
-          plugin_skyline_year: current-year
+          plugin_skyline_year: ${{ env.YEAR }}
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
           plugin_skyline_settings: |

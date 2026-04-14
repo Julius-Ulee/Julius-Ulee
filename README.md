@@ -1,34 +1,34 @@
 <p align="center">
   <a href="https://holopin.io/@juliusulee">
-    <img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board">
+    <img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@KingUlee&#39;s Holopin board">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Azriel+Fidzlie" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Always+learning+new+things;Experienced+UI%2FUX+Designer;Open-Source+Developer+" alt="Typing SVG" />
   </a>
 </p>
   
   <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@juliusulee"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@KingUlee"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/julius-ulee-129252278/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/azriel-fidzlie-129252278/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/mas_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/king_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/385442265302302721" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/juliusulee"><img width="32px" alt="Dev.to" title="Julius-Ulee Dev.to" src="https://i.imgur.com/mVm29vK.png"/></a>
+  <a href="https://dev.to/king-ulee"><img width="32px" alt="Dev.to" title="Azriel Fidzlie Dev.to" src="https://i.imgur.com/mVm29vK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/juliusule"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/kingulee"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
 <br/>
@@ -37,18 +37,18 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1">
+  <a href="https://www.youtube.com/@KingUlee?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  <a href="https://github.com/Julius-Ulee?tab=repositories">
+  <a href="https://github.com/King-Ulee?tab=repositories">
     <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-e5b116?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/Julius-Ulee">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Julius-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Julius-Ulee?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Julius-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/King-Ulee">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/King-Ulee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/King-Ulee?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/King-Ulee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://discord.gg/WzuNzyaJCq">
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/1245192377123995680?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a><br>
-  <a href="https://github.com/Julius-Ulee">
-    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Julius-Ulee&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+  <a href="https://github.com/King-Ulee">
+    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=King-Ulee&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 <p align="center"> <!-- spotify -->
@@ -67,24 +67,24 @@
 </p>
 
 <p align="center"> <!-- Matrics -->
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-core.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-isometric.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-community.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-pagespeed.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-skyline.svg"></a>
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
 </p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
-  <a href="https://github.com/Julius-Ulee"><img title="Julius-Ulee's Activity Graph" alt="Julius-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Julius-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true"/></a>
-</p> 
+  <a href="https://github.com/King-Ulee"><img title="King-Ulee's Activity Graph" alt="King-Ulee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=King-Ulee&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true"/></a>
+</p>
         
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -159,12 +159,12 @@
   
   <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://github.com/Julius-Ulee">
-      <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true">
+    <a href="https://github.com/King-Ulee">
+      <img title="🔥 Get streak stats for your profile" alt="King-Ulee's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=King-Ulee&theme=monokai-metallian&hide_border=true">
     </a>
   </p>
 
-<h3>⚡ Recent GitHub Activity <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/306456465/small/week.png"></h3>
+<h3>⚡ Recent GitHub Activity <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/306456465/small/week.png"></h3>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
@@ -176,53 +176,37 @@
 5. ❗ Opened issue [#124](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/124) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
-<h3>📕 Latest Blog Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>
+<h3>📕 Latest Blog Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
- - 📕 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
- - 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
- - 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
- - 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
 
-<h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
+- 📘 Jan 2, 2024 [Create a Daily Weather Report](https://julius-ulee.github.io/posts/weather/)
+- 📕 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://julius-ulee.github.io/posts/status/)
+- 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://julius-ulee.github.io/posts/school-program/)
+- 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://julius-ulee.github.io/posts/holobyte/)
+- 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://julius-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
+
+<h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
- - 📘 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
- - 📕 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
- - 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
- - 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
- - 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
 
-</details>
+- 📘 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
+- 📕 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
+- 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
+- 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
+- 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
 
-<details>
-<summary><h2>🖼️ Github Profile 3D</h2></summary>
-
-<p align="center">
-  <a href="https://github.com/Julius-Ulee"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width="98%"/></a>
-  <br/>
-</p>  
-</details>
-
-<details>
-  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
-  
-  <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
-  </p>
 </details>
 
 <h3 align="center">🌎 Find me around the web</h3>
 <p align="center">
-  <a target="_blank" href="mailto:fidzlieazriel@gmail.com"><img title="My Email: fidzlieazriel@gmail.com" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/julius-ulee-129252278/"><img title="My Linkedin" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
-  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img title="My Instagram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
-  <a target="_blank" href="https://twitter.com/mas_ulee"><img title="My Twitter" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/twitter.svg" alt="mas_ulee"/></a>
-  <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/reddit.svg" alt="Julius Ulee"/></a>
-  <a target="_blank" href="https://t.me/juliusulee"><img title="My Telegram" src="https://raw.githubusercontent.com/Julius-Ulee/Julius-Ulee/main/src/social/telegram.svg" alt="juliusulee"/></a>
-  <a target="_blank" href="https://www.youtube.com/@JuliusUlee?sub_confirmation=1"><img title="My Youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
+  <a target="_blank" href="mailto:fidzlieazriel@gmail.com"><img title="My Email: fidzlieazriel@gmail.com" src="https://raw.githubusercontent.com/King-Ulee/King-Ulee/main/src/social/gmail.svg" alt="gmail"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/azriel-fidzlie-129252278/"><img title="My Linkedin" src="https://raw.githubusercontent.com/King-Ulee/King-Ulee/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img title="My Instagram" src="https://raw.githubusercontent.com/King-Ulee/King-Ulee/main/src/social/instagram.svg" alt="mas.ulee"/></a>
+  <a target="_blank" href="https://twitter.com/king_ulee"><img title="My Twitter" src="https://raw.githubusercontent.com/King-Ulee/King-Ulee/main/src/social/twitter.svg" alt="king_ulee"/></a>
+  <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/King-Ulee/King-Ulee/main/src/social/reddit.svg" alt="King Ulee"/></a>
+  <a target="_blank" href="https://t.me/mas_ulee"><img title="My Telegram" src="https://raw.githubusercontent.com/King-Ulee/King-Ulee/main/src/social/telegram.svg" alt="Azriel Fidzlie"/></a>
+  <a target="_blank" href="https://www.youtube.com/@KingUlee?sub_confirmation=1"><img title="My Youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"></a>
 </p>
 
 <p align=center> <!-- Discord -->
@@ -232,7 +216,7 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/Julius-Ulee">
+  <a href="https://github.com/King-Ulee">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
   </a>
 </p>

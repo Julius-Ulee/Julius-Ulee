@@ -1,127 +1,127 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: ["master", "main"] }
 
 jobs:
-   metrics-core:
-     runs-on: ubuntu-latest
-     permissions:
-       contents: write
-     steps:
-       - uses: lowlighter/metrics@latest
-         with:
-           filename: metrics/metrics-core.svg
-           token: ${{ secrets.METRICS_TOKEN }}
-           committer_message: "📊 Update Metrics with the Github Action"
-           user: ${{ github.repository_owner }}
-           template: classic
-          
-           # Base
-           base: header, activity, community, repositories
-           base_hireable: yes
-           base_indepth: yes
-          
-           # Base Configs
-           config_octicon: yes
-           config_timezone: Asia/Jakarta
-           config_twemoji: yes
-           repositories_forks: yes
-          
-           # Lines
-           plugin_lines: yes
-           plugin_lines_history_limit: 1
-           plugin_lines_repositories_limit: 4
-           plugin_lines_sections: base
+  metrics-core:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-core.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
+          template: classic
 
-           # topic
-           plugin_topics: yes
-           plugin_topics_limit: 0
-           plugin_topics_mode: icons
+          # Base
+          base: header, activity, community, repositories
+          base_hireable: yes
+          base_indepth: yes
 
-           # notable
-           plugin_notable: yes
+          # Base Configs
+          config_octicon: yes
+          config_timezone: Asia/Jakarta
+          config_twemoji: yes
+          repositories_forks: yes
 
-   metrics-pagespeed:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics/metrics-pagespeed.svg
-            token: NOT_NEEDED
-            committer_message: "📊 Update Metrics with the Github Action"
-            user: ${{ github.repository_owner }}
+          # Lines
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
 
-            # Base
-            base: ""
+          # topic
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
 
-            # Pages Speed
-            plugin_pagespeed: yes
-            plugin_pagespeed_screenshot: yes
-            plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-            plugin_pagespeed_url: https://schoolprograms.my.id
+          # notable
+          plugin_notable: yes
 
-   metrics-skyline:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics/metrics-skyline.svg
-            token: NOT_NEEDED
-            committer_message: "📊 Update Metrics with the Github Action"
-            user: ${{ github.repository_owner }}
+  metrics-pagespeed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-pagespeed.svg
+          token: NOT_NEEDED
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
 
-            # Base
-            base: ""
+          # Base
+          base: ""
 
-            # skyline
-            plugin_skyline: yes
-            plugin_skyline_year: 2025
-            plugin_skyline_frames: 6
-            plugin_skyline_quality: 1
-            plugin_skyline_settings: |
-              {
-                "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
-                "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
-                "wait": 4,
-                "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
-              }
+          # Pages Speed
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://schoolprograms.my.id
 
-   metrics-isometric:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics/metrics-isometric.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            committer_message: "📊 Update Metrics with the Github Action"
-            user: ${{ github.repository_owner }}
-            template: classic
-            
-            # Base
-            base: ""
-            config_timezone: Asia/Jakarta
-            
-            # Isometric Calendar
-            plugin_isocalendar: yes
+  metrics-skyline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-skyline.svg
+          token: NOT_NEEDED
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
 
-            # stargazers
-            plugin_stargazers: yes
-            plugin_stargazers_charts_type: classic
+          # Base
+          base: ""
 
-            # discussions
-            plugin_discussions: yes
-            plugin_discussions_categories_limit: 8
-            
-   metrics-community:
+          # skyline
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
+
+  metrics-isometric:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-isometric.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
+          template: classic
+
+          # Base
+          base: ""
+          config_timezone: Asia/Jakarta
+
+          # Isometric Calendar
+          plugin_isocalendar: yes
+
+          # stargazers
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
+
+          # discussions
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+
+  metrics-community:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -133,22 +133,22 @@ jobs:
           committer_message: "📊 Update Metrics with the Github Action"
           user: ${{ github.repository_owner }}
           template: classic
-          
+
           # Base
           base: ""
           config_timezone: Asia/Jakarta
-          
+
           # Follow-up Issues and PRs
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          
+
           # People
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          
+
           # Reactions
           plugin_reactions: yes
           plugin_reactions_display: absolute
@@ -156,8 +156,8 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          
-   metrics-achievements:
+
+  metrics-achievements:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -169,11 +169,11 @@ jobs:
           committer_message: "📊 Update Metrics with the Github Action"
           user: ${{ github.repository_owner }}
           template: classic
-          
+
           # Base
           base: ""
           config_timezone: Asia/Jakarta
-          
+
           # Achievement
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -183,7 +183,7 @@ jobs:
           #fortune
           plugin_fortune: yes
 
-   metrics-languages:
+  metrics-languages:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -195,11 +195,11 @@ jobs:
           committer_message: "📊 Update Metrics with the Github Action"
           user: ${{ github.repository_owner }}
           template: classic
-          
+
           # Base
           base: ""
           config_timezone: Asia/Jakarta
-          
+
           # Languages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15

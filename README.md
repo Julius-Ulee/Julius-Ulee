@@ -188,12 +188,11 @@
 <h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
 
 <!-- School-Programs:START -->
-
-- 📘 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
-- 📕 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
-- 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
-- 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
-- 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
+ - 📔 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
+ - 📙 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
+ - 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
+ - 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
+ - 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
 
 </details>
 

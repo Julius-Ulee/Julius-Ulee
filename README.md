@@ -169,11 +169,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
-2. ℹ️ Labeled issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
-3. ❗ Opened issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
-4. ℹ️ Labeled issue [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
-5. ℹ️ Labeled issue [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+1. 🔒 Closed issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+2. 🗣 Commented on [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127#issuecomment-4244530626) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+3. 🔒 Closed issue [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+4. 🗣 Commented on [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126#issuecomment-4244530344) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+5. 🗣 Commented on [#125](https://github.com/King-Ulee/Status-Page-Advanced/issues/125#issuecomment-4244530101) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>

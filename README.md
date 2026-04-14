@@ -169,11 +169,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#124](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/124#issuecomment-4168334591) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-2. 🔒 Closed issue [#124](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/124) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-3. ℹ️ Labeled issue [#124](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/124) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-4. ℹ️ Labeled issue [#124](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/124) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
-5. ❗ Opened issue [#124](https://github.com/Julius-Ulee/Status-Page-Advanced/issues/124) in [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced)
+1. ℹ️ Labeled issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+2. ℹ️ Labeled issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+3. ❗ Opened issue [#127](https://github.com/King-Ulee/Status-Page-Advanced/issues/127) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+4. ℹ️ Labeled issue [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+5. ℹ️ Labeled issue [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
 <h3>📕 Latest Blog Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>

@@ -176,24 +176,6 @@
 5. 🗣 Commented on [#125](https://github.com/King-Ulee/Status-Page-Advanced/issues/125#issuecomment-4244530101) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
-<h3>📕 Latest Blog Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/662145992/small/week.png"></h3>
-
-<!-- BLOG-POST-LIST:START -->
- - 📔 Jan 2, 2024 [Create a Daily Weather Report](https://king-ulee.github.io/posts/weather/)
- - 📙 Nov 19, 2023 [School Programs Status: The monitoring real-time data from our GitHub repository.](https://king-ulee.github.io/posts/status/)
- - 📙 Nov 9, 2023 [School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency](https://king-ulee.github.io/posts/school-program/)
- - 📙 Nov 5, 2023 [🦖Holobyte Hunter: Life of Pegasaurus](https://king-ulee.github.io/posts/holobyte/)
- - 📕 Sep 3, 2023 [Daily Check-In Genshin Impact, Honkai Impact, Honkai: Star Rail](https://king-ulee.github.io/posts/daily-check-in/)<!-- BLOG-POST-LIST:END -->
-
-<h3>📔 Latest School Programs Posts <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/702971902/small/week.png"></h3>
-
-<!-- School-Programs:START -->
- - 📔 Feb 12, 2025 [Starlink WiFi: Revolusi Internet Satelit Global](https://schoolprograms.my.id/network/starlinkwifi-revolusi-internet-satelit-global/)
- - 📙 May 13, 2024 [Cara Push Project ke Github Mengunakaan GIT](https://schoolprograms.my.id/software/cara-push-ke-github-menggunakan-git/)
- - 📙 Apr 14, 2024 [Cara Lengkap Membuat Paragraf di HTML](https://schoolprograms.my.id/html/cara-membuat-paragraf-di-html/)
- - 📙 Feb 21, 2024 [Konvensi Pesan Commit Git](https://schoolprograms.my.id/github/konversi-pesan-commit-git/)
- - 📕 Feb 10, 2024 [Pengelolaan Data dengan Python Menggunakan Perulangan &lpar;Loop&rpar;](https://schoolprograms.my.id/python/sorting-data-list/)<!-- School-Programs:END -->
-
 </details>
 
 <h3 align="center">🌎 Find me around the web</h3>

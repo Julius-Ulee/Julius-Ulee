@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/King-Ulee">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Azriel+Fidzlie" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Azriel+Fidzlie,+S.Kom" alt="Typing SVG" />
   </a>
 </p>
 

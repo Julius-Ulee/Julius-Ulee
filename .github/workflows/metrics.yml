@@ -63,7 +63,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://kingulee.com
+          plugin_pagespeed_url: https://www.kingulee.com
 
   metrics-skyline:
     runs-on: ubuntu-latest
